@@ -1,0 +1,3664 @@
+[{
+  "name": "Resturangkartan Resturant",
+  "count": 11,
+  "frequency": "Manual Crawl",
+  "version": 2,
+  "newdata": true,
+  "lastrunstatus": "success",
+  "lastsuccess": "Sat Feb 14 2015 12:47:07 GMT+0000 (UTC)",
+  "thisversionstatus": "success",
+  "thisversionrun": "Sat Feb 14 2015 12:46:49 GMT+0000 (UTC)",
+  "results": {
+    "collection1": [
+      {
+        "Name": "Sparta Pizzabutik",
+        "Description": "Pizza för avhämtning. Säljer pizzor, panpizza, sallader, hamburgare, kebab och gyros. Luncherbjudande vardagar klockan 11.30-14.00.",
+        "Street": "Lille Bullens Väg 1, Norrlidens centrum",
+        "Zip": "39358",
+        "City": "Kalmar",
+        "Tel": "0480-10582",
+        "Image": {
+          "src": "http://www.allakartor.se/graphics/no_image_100.gif",
+          "alt": "Bilder från Sparta Pizzabutik",
+          "href": "http://www.restaurangkartan.se/0178160/images/",
+          "text": ""
+        }
+      }
+    ],
+    "collection3": [
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Marianne73/",
+          "text": "Marianne73"
+        },
+        "ReviewTest": "Bästa och godaste pizza jag ätit någonsin! God deg, bra smaker på fyllingen, jättegod pizzasallad och sås. Trevlig o snabb personal. Favoriten nr ett i stan :)",
+        "ReviewDate": "2014-11-22 kl. 17:29",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "1",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Bme_today/",
+          "text": "Bme today"
+        },
+        "ReviewTest": "Klart Kalmars bästa pizza och jag har provat de flesta! Att det finns gyrospizza är ett storg plus!God deg, saftigt kött och lagom stora med mycket ingredienser. Helt klart favoriten!",
+        "ReviewDate": "2014-11-06 kl. 04:45",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "0",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Jim_Haglund/",
+          "text": "Jim Haglund"
+        },
+        "ReviewTest": "Köpte en Vesuvio, ingen god ost,för tunna skinkskivor ,de blir för torra. Degen ej genombakat i kanterna.",
+        "ReviewDate": "2014-01-12 kl. 20:44",
+        "ReviewRate": "Betyg: 2",
+        "ReviewLike": "0",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Netta003/",
+          "text": "Netta003"
+        },
+        "ReviewTest": "Helt outstanding! Bästa pizzan i Kalmar! Tack snälla ni på sparta för att ni finns!",
+        "ReviewDate": "2013-08-25 kl. 16:20",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "2",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/ellispellis/",
+          "text": "ellispellis"
+        },
+        "ReviewTest": "Det var ett litet ställe och lite för små pizzor. Ingen god ost",
+        "ReviewDate": "2013-07-26 kl. 11:57",
+        "ReviewRate": "Betyg: 1",
+        "ReviewLike": "0",
+        "ReviewDislike": "3"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Pizzaexpertensegnatips/",
+          "text": "Pizzaexpertensegnatips"
+        },
+        "ReviewTest": "Random. 1900kr för en trippel familjepizza. Tid:Långsammare än en 1minute man. Storlek: Helt ok, men har sett större. Skinka:Hårig Ost:Musen i huset gav den godkänt. Deg: Den smet ner. Sallad: Titanic skulle kommit undan denna lilla mängd ´isbergs´-sallad som ingick. Av alla pizzerior jag käkat på här i Kalmar,så kan jag pizza-experten själv intyga att denna pizzeria håller muren uppe på en skala 3,5/5. MVH PIZZAEXPERTEN",
+        "ReviewDate": "2013-03-03 kl. 17:04",
+        "ReviewRate": "Betyg: 3",
+        "ReviewLike": "1",
+        "ReviewDislike": "6"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Cyklatillbahamas/",
+          "text": "Cyklatillbahamas"
+        },
+        "ReviewTest": "Köpte en familjepizza, vesuvio. Pris: standard, 150 för familjepizzan. Tid: snabb. Storlek: aningen liten. Skinka: Bra. Ost: suverän. Deg: suverän. Sallad: helt okej. Vitlökssås: supergod. Av alla pizzerior vi har testat i kalmar så är detta den enda som mäter sig med Italia.",
+        "ReviewDate": "2013-01-25 kl. 15:07",
+        "ReviewRate": "Betyg: 4",
+        "ReviewLike": "2",
+        "ReviewDislike": "2"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Guran222/",
+          "text": "Guran222"
+        },
+        "ReviewTest": "Mycket bra pizzeria. Åt här i somras och det var toppen",
+        "ReviewDate": "2013-01-21 kl. 17:18",
+        "ReviewRate": "Betyg: 3",
+        "ReviewLike": "1",
+        "ReviewDislike": "1"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/KarinB/",
+          "text": "KarinB"
+        },
+        "ReviewTest": "Trevlig personal som ofta bjuder på det lilla extra. Mumsiga pizzor!Snabb service. Synd att lokalen är så liten att det bara är hämtmat.",
+        "ReviewDate": "2012-10-26 kl. 12:48",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "5",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/hopppp/",
+          "text": "hopppp"
+        },
+        "ReviewTest": "Har bara provat deras gyrosrulle med stark sås, den smakade verkligen bra! Klart värt resan från centrum så hit kommer jag absolut igen. Tyvärr har de bara mat för avhämtning, trotts det är det ett mycket poppulärt ställe för det kryllade av kunder!",
+        "ReviewDate": "2012-05-12 kl. 20:28",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "3",
+        "ReviewDislike": "1"
+      }
+    ]
+  }
+}, {
+  "name": "Resturangkartan Resturant",
+  "count": 11,
+  "frequency": "Manual Crawl",
+  "version": 2,
+  "newdata": false,
+  "lastrunstatus": "success",
+  "lastsuccess": "Sat Feb 14 2015 12:47:07 GMT+0000 (UTC)",
+  "thisversionstatus": "success",
+  "thisversionrun": "Sat Feb 14 2015 12:46:49 GMT+0000 (UTC)",
+  "url": "http://www.restaurangkartan.se/0178160/Sparta_Pizzabutik",
+  "results": {
+    "collection1": [
+      {
+        "Name": "Sparta Pizzabutik",
+        "Description": "Pizza för avhämtning. Säljer pizzor, panpizza, sallader, hamburgare, kebab och gyros. Luncherbjudande vardagar klockan 11.30-14.00.",
+        "Street": "Lille Bullens Väg 1, Norrlidens centrum",
+        "Zip": "39358",
+        "City": "Kalmar",
+        "Tel": "0480-10582",
+        "Image": {
+          "src": "http://www.allakartor.se/graphics/no_image_100.gif",
+          "alt": "Bilder från Sparta Pizzabutik",
+          "href": "http://www.restaurangkartan.se/0178160/images/",
+          "text": ""
+        }
+      }
+    ],
+    "collection3": [
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Marianne73/",
+          "text": "Marianne73"
+        },
+        "ReviewTest": "Bästa och godaste pizza jag ätit någonsin! God deg, bra smaker på fyllingen, jättegod pizzasallad och sås. Trevlig o snabb personal. Favoriten nr ett i stan :)",
+        "ReviewDate": "2014-11-22 kl. 17:29",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "1",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Bme_today/",
+          "text": "Bme today"
+        },
+        "ReviewTest": "Klart Kalmars bästa pizza och jag har provat de flesta! Att det finns gyrospizza är ett storg plus!God deg, saftigt kött och lagom stora med mycket ingredienser. Helt klart favoriten!",
+        "ReviewDate": "2014-11-06 kl. 04:45",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "0",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Jim_Haglund/",
+          "text": "Jim Haglund"
+        },
+        "ReviewTest": "Köpte en Vesuvio, ingen god ost,för tunna skinkskivor ,de blir för torra. Degen ej genombakat i kanterna.",
+        "ReviewDate": "2014-01-12 kl. 20:44",
+        "ReviewRate": "Betyg: 2",
+        "ReviewLike": "0",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Netta003/",
+          "text": "Netta003"
+        },
+        "ReviewTest": "Helt outstanding! Bästa pizzan i Kalmar! Tack snälla ni på sparta för att ni finns!",
+        "ReviewDate": "2013-08-25 kl. 16:20",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "2",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/ellispellis/",
+          "text": "ellispellis"
+        },
+        "ReviewTest": "Det var ett litet ställe och lite för små pizzor. Ingen god ost",
+        "ReviewDate": "2013-07-26 kl. 11:57",
+        "ReviewRate": "Betyg: 1",
+        "ReviewLike": "0",
+        "ReviewDislike": "3"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Pizzaexpertensegnatips/",
+          "text": "Pizzaexpertensegnatips"
+        },
+        "ReviewTest": "Random. 1900kr för en trippel familjepizza. Tid:Långsammare än en 1minute man. Storlek: Helt ok, men har sett större. Skinka:Hårig Ost:Musen i huset gav den godkänt. Deg: Den smet ner. Sallad: Titanic skulle kommit undan denna lilla mängd ´isbergs´-sallad som ingick. Av alla pizzerior jag käkat på här i Kalmar,så kan jag pizza-experten själv intyga att denna pizzeria håller muren uppe på en skala 3,5/5. MVH PIZZAEXPERTEN",
+        "ReviewDate": "2013-03-03 kl. 17:04",
+        "ReviewRate": "Betyg: 3",
+        "ReviewLike": "1",
+        "ReviewDislike": "6"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Cyklatillbahamas/",
+          "text": "Cyklatillbahamas"
+        },
+        "ReviewTest": "Köpte en familjepizza, vesuvio. Pris: standard, 150 för familjepizzan. Tid: snabb. Storlek: aningen liten. Skinka: Bra. Ost: suverän. Deg: suverän. Sallad: helt okej. Vitlökssås: supergod. Av alla pizzerior vi har testat i kalmar så är detta den enda som mäter sig med Italia.",
+        "ReviewDate": "2013-01-25 kl. 15:07",
+        "ReviewRate": "Betyg: 4",
+        "ReviewLike": "2",
+        "ReviewDislike": "2"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Guran222/",
+          "text": "Guran222"
+        },
+        "ReviewTest": "Mycket bra pizzeria. Åt här i somras och det var toppen",
+        "ReviewDate": "2013-01-21 kl. 17:18",
+        "ReviewRate": "Betyg: 3",
+        "ReviewLike": "1",
+        "ReviewDislike": "1"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/KarinB/",
+          "text": "KarinB"
+        },
+        "ReviewTest": "Trevlig personal som ofta bjuder på det lilla extra. Mumsiga pizzor!Snabb service. Synd att lokalen är så liten att det bara är hämtmat.",
+        "ReviewDate": "2012-10-26 kl. 12:48",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "5",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/hopppp/",
+          "text": "hopppp"
+        },
+        "ReviewTest": "Har bara provat deras gyrosrulle med stark sås, den smakade verkligen bra! Klart värt resan från centrum så hit kommer jag absolut igen. Tyvärr har de bara mat för avhämtning, trotts det är det ett mycket poppulärt ställe för det kryllade av kunder!",
+        "ReviewDate": "2012-05-12 kl. 20:28",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "3",
+        "ReviewDislike": "1"
+      }
+    ]
+  }
+}, {
+  "name": "Resturangkartan Resturant",
+  "count": 3,
+  "frequency": "Manual Crawl",
+  "version": 3,
+  "newdata": true,
+  "lastrunstatus": "success",
+  "lastsuccess": "Sat Feb 14 2015 12:56:13 GMT+0000 (UTC)",
+  "thisversionstatus": "success",
+  "thisversionrun": "Sat Feb 14 2015 12:55:56 GMT+0000 (UTC)",
+  "url": "http://www.restaurangkartan.se/011036/Kebabben",
+  "results": {
+    "collection1": [
+      {
+        "Name": "Kebabben",
+        "Description": "Detta är en restaurang som ligger på Larmgatan 11 i Kalmar.",
+        "Street": "Larmgatan 11",
+        "Zip": "",
+        "City": "Kalmar",
+        "Tel": "0480-21237",
+        "Image": {
+          "src": "http://www.allakartor.se/venue_images_100/11036_321632157879979.jpg",
+          "alt": "Bilder från Kebabben",
+          "href": "http://www.restaurangkartan.se/011036/images/",
+          "text": ""
+        }
+      }
+    ],
+    "collection3": [
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/JJ2004/",
+          "text": "JJ2004"
+        },
+        "ReviewTest": "En kebab i pitabröd efter en utekväll är så underbart gott. Vitkål istället för lök är deras specialitet, men du kan få lök istället/också om du vill ha det.",
+        "ReviewDate": "2012-01-07 kl. 11:17",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "0",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/nadiaälskare/",
+          "text": "nadiaälskare"
+        },
+        "ReviewTest": "Världens godaste kycklingsallad. En klar favorit.",
+        "ReviewDate": "2010-09-18 kl. 14:18",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "1",
+        "ReviewDislike": "0"
+      }
+    ]
+  }
+}, {
+  "name": "Resturangkartan Resturant",
+  "count": 4,
+  "frequency": "Manual Crawl",
+  "version": 4,
+  "newdata": true,
+  "lastrunstatus": "success",
+  "lastsuccess": "Sat Feb 14 2015 12:56:31 GMT+0000 (UTC)",
+  "thisversionstatus": "success",
+  "thisversionrun": "Sat Feb 14 2015 12:56:14 GMT+0000 (UTC)",
+  "url": "http://www.restaurangkartan.se/013562/Tallhagens_Pizzeria_KB",
+  "results": {
+    "collection1": [
+      {
+        "Name": "Tallhagens Pizzeria KB",
+        "Description": "Detta är en pizza-restaurang som ligger på Tallhagsvägen i Kalmar.",
+        "Street": "Tallhagsvägen",
+        "Zip": "",
+        "City": "Kalmar",
+        "Tel": "0480-51040",
+        "Image": {
+          "src": "http://www.allakartor.se/graphics/no_image_100.gif",
+          "alt": "Bilder från Tallhagens Pizzeria KB",
+          "href": "http://www.restaurangkartan.se/013562/images/",
+          "text": ""
+        }
+      }
+    ],
+    "collection3": [
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/adolf_hitler/",
+          "text": "adolf hitler"
+        },
+        "ReviewTest": "mums mums mums mums mums mums mus mums mums",
+        "ReviewDate": "2013-09-05 kl. 11:38",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "0",
+        "ReviewDislike": "1"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Rughz81/",
+          "text": "Rughz81"
+        },
+        "ReviewTest": "Supergoda pizzor, bra och trevlig service!",
+        "ReviewDate": "2012-08-05 kl. 23:30",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "1",
+        "ReviewDislike": "3"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Christian_Sandholm/",
+          "text": "Christian Sandholm"
+        },
+        "ReviewTest": "Enkel och utomordenligt fräsch hämtpizzeria. Jag har mest ätit kebabpizzorna och de är goda!",
+        "ReviewDate": "2010-11-30 kl. 09:52",
+        "ReviewRate": "Betyg: 4",
+        "ReviewLike": "2",
+        "ReviewDislike": "4"
+      }
+    ]
+  }
+}, {
+  "name": "Resturangkartan Resturant",
+  "count": 4,
+  "frequency": "Manual Crawl",
+  "version": 5,
+  "newdata": true,
+  "lastrunstatus": "success",
+  "lastsuccess": "Sat Feb 14 2015 12:56:55 GMT+0000 (UTC)",
+  "thisversionstatus": "success",
+  "thisversionrun": "Sat Feb 14 2015 12:56:37 GMT+0000 (UTC)",
+  "url": "http://www.restaurangkartan.se/012076/Pizzeria_Restaurang_Capri",
+  "results": {
+    "collection1": [
+      {
+        "Name": "Pizzeria Restaurang Capri",
+        "Description": "Detta är en pizza-restaurang som ligger på Smedbyvägen i Kalmar.",
+        "Street": "Smedbyvägen",
+        "Zip": "",
+        "City": "Kalmar",
+        "Tel": "0480-479659",
+        "Image": {
+          "src": "http://www.allakartor.se/graphics/no_image_100.gif",
+          "alt": "Bilder från Pizzeria Restaurang Capri",
+          "href": "http://www.restaurangkartan.se/012076/images/",
+          "text": ""
+        }
+      }
+    ],
+    "collection3": [
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/liselottå/",
+          "text": "liselottå"
+        },
+        "ReviewTest": "Bästa pizzan någonsin: grillad vegetarisk på fullkornsbotten. Slår alla andra pizzorior i Kalmar! Supergod! Resten av familjen var också supernöjda med sina pizzor.",
+        "ReviewDate": "2013-05-26 kl. 20:14",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "2",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Mia_Hall/",
+          "text": "Mia Hall"
+        },
+        "ReviewTest": "Väldigt goda pizzor! I alla fall sist jag kollade! :D",
+        "ReviewDate": "2011-06-27 kl. 22:48",
+        "ReviewRate": "Betyg: 4",
+        "ReviewLike": "1",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Netta003/",
+          "text": "Netta003"
+        },
+        "ReviewTest": "älskar dessa pizzor! Speciellt Kevin special!",
+        "ReviewDate": "2010-08-12 kl. 13:39",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "1",
+        "ReviewDislike": "2"
+      }
+    ]
+  }
+}, {
+  "name": "Resturangkartan Resturant",
+  "count": 11,
+  "frequency": "Manual Crawl",
+  "version": 6,
+  "newdata": true,
+  "lastrunstatus": "success",
+  "lastsuccess": "Sat Feb 14 2015 12:57:17 GMT+0000 (UTC)",
+  "thisversionstatus": "success",
+  "thisversionrun": "Sat Feb 14 2015 12:56:57 GMT+0000 (UTC)",
+  "url": "http://www.restaurangkartan.se/0159/Kama_Sushi",
+  "results": {
+    "collection1": [
+      {
+        "Name": "Kama Sushi",
+        "Description": "På Västra Sjögatan hittar du denna sushirestaurang med liten servering med cirka 20 platser. Prisvärt lunchalternativ där misosoppa och te ingår.",
+        "Street": "Västra Sjögatan 13",
+        "Zip": "39232",
+        "City": "Kalmar",
+        "Tel": "0480-54878",
+        "Image": {
+          "src": "http://www.allakartor.se/venue_images_100/159_89971379.jpg",
+          "alt": "Bilder från Kama Sushi",
+          "href": "http://www.restaurangkartan.se/0159/images/",
+          "text": ""
+        }
+      }
+    ],
+    "collection3": [
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/GGustafsson/",
+          "text": "GGustafsson"
+        },
+        "ReviewTest": "Inte bäst men ändå mycket bra! Bor man i Kalmartrakten så är det hit man går när suget slår till.",
+        "ReviewDate": "2014-12-06 kl. 12:40",
+        "ReviewRate": "Betyg: 4",
+        "ReviewLike": "0",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Hello_Sushi/",
+          "text": "Hello Sushi"
+        },
+        "ReviewTest": "Det var mättande och smakade bra, men det var ändå något som saknades. Jag köpte tolv bitar vegetarisk sushi, vilket kostade 100 kronor vid lunch. Det var inte så stor variation på bitarna, något som hade kunnat göras bättre. Det var positivt att det var så pass många bitar som var nigiri (8 av 12). Sojan var i en liten burk som det var svårt att doppa i.",
+        "ReviewDate": "2014-11-17 kl. 12:31",
+        "ReviewRate": "Betyg: 3",
+        "ReviewLike": "0",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Erika_Fredriksson/",
+          "text": "Erika Fredriksson"
+        },
+        "ReviewTest": "Världens bästa sushi, alltid perfekt, alltid trevlig personal, man får utforma sin egen sushi. Saknar Kama när jag har flyttat ifrån Kalmar, dom håller världsklass!",
+        "ReviewDate": "2014-09-18 kl. 10:58",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "1",
+        "ReviewDislike": "1"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Räkan_Petersson/",
+          "text": "Räkan Petersson"
+        },
+        "ReviewTest": "Var bättre ett par år sen, men fortfarande väldigt gott och fräscht. Lite dyrt för så små bitar, men så himla gott att det är värt några extra kronor!",
+        "ReviewDate": "2014-08-10 kl. 18:07",
+        "ReviewRate": "Betyg: 4",
+        "ReviewLike": "0",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Ellenbellen/",
+          "text": "Ellenbellen"
+        },
+        "ReviewTest": "Supertrevlig personal! Finns både spännande sushi-bitar för den mer äventyrliga t.ex bläckfisk, mussla, ål m.m men även standard-sushi för nybörjaren! Fantastisk miso och alltid väldigt bra ris! Har alltid lämnat restaurangen mätt och lycklig! Prisvärt! Mitt tips, kockens val, alltid lika spännande! Har testat många sushi-restauranger i Sverige men ingen har nåt upp till samma nivå som Kama Sushi!",
+        "ReviewDate": "2014-05-07 kl. 15:40",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "1",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/StefanP/",
+          "text": "StefanP"
+        },
+        "ReviewTest": "Nej, det här var inte en hit. I ett blindtest så hade jag nog gissat på en plastlåda med sushi från kyldisken på en mataffär.Laxen i bitarna var inte av toppkvalitet. För mycket gammalfisklukt. Inte så att det är någon hälsofara, men inte toppenkvalitet. Och laxen var blöt och lätt mosig. Jag gissar att den frusits om. Avokadobitarna var lite för omogna. Bitarna föll i sär.",
+        "ReviewDate": "2013-10-08 kl. 11:05",
+        "ReviewRate": "Betyg: 2",
+        "ReviewLike": "1",
+        "ReviewDislike": "4"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Fru_Fransson/",
+          "text": "Fru Fransson"
+        },
+        "ReviewTest": "Var bättre för ett par år sedan, tycker ibland att bitarna är lite slarvigt gjorda. Kan dock rekommendera sashimin, alltid väl tilltaget, snyggt upplagt, gott och varierat.",
+        "ReviewDate": "2013-07-27 kl. 17:26",
+        "ReviewRate": "Betyg: 4",
+        "ReviewLike": "0",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Anette_M/",
+          "text": "Anette M"
+        },
+        "ReviewTest": "Bra kvalitet varje gång jag äter här! Min favorit är deras laxbitar, ljuvligt tillsammans med ingefäran och wasabi blandad i sojan.",
+        "ReviewDate": "2013-04-11 kl. 17:50",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "1",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Filip_Magounakis/",
+          "text": "Filip Magounakis"
+        },
+        "ReviewTest": "En av de bättre jag besökt. Kockens val gör aldrig en besviken.",
+        "ReviewDate": "2013-03-07 kl. 23:43",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "2",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Jörgen_Tannerstedt/",
+          "text": "Jörgen Tannerstedt"
+        },
+        "ReviewTest": "En av de bästa jag provat i Sverige. Fräscht, smakrikt och helt perfekt.",
+        "ReviewDate": "2012-12-28 kl. 17:13",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "0",
+        "ReviewDislike": "0"
+      }
+    ]
+  }
+}, {
+  "name": "Resturangkartan Resturant",
+  "count": 4,
+  "frequency": "Manual Crawl",
+  "version": 7,
+  "newdata": true,
+  "lastrunstatus": "success",
+  "lastsuccess": "Sat Feb 14 2015 12:57:39 GMT+0000 (UTC)",
+  "thisversionstatus": "success",
+  "thisversionrun": "Sat Feb 14 2015 12:57:20 GMT+0000 (UTC)",
+  "url": "http://www.restaurangkartan.se/0473704/Tandoori_House",
+  "results": {
+    "collection1": [
+      {
+        "Name": "Tandoori House",
+        "Description": "Indisk restaurang i centrala Kalmar. Stort utbud av indiska rätter till rimligt pris. Sittplatser, take away och hemkörning.",
+        "Street": "Storgatan 24",
+        "Zip": "39232",
+        "City": "Kalmar",
+        "Tel": "0480-432543",
+        "Image": {
+          "src": "http://www.allakartor.se/venue_images_100/473704_139308846254022.jpg",
+          "alt": "Bilder från Tandoori House",
+          "href": "http://www.restaurangkartan.se/0473704/images/",
+          "text": ""
+        }
+      }
+    ],
+    "collection3": [
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Cissi50/",
+          "text": "Cissi50"
+        },
+        "ReviewTest": "God mat, trevlig miljö och bra service från personalen!",
+        "ReviewDate": "2014-05-28 kl. 21:29",
+        "ReviewRate": "Betyg: 4",
+        "ReviewLike": "0",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/StefanP/",
+          "text": "StefanP"
+        },
+        "ReviewTest": "Har ätit två gånger här. Mycket goda rätter, bland de bättre indier jag provat. Väldigt fina smaknyanser i de rätter som jag provade (som hade två chillifrukter som styrka i menyn), inte bara starkt. Jag gillar att lokalen inte är så tyngd av indisk-look-alike-utsmyckning. Det behövs inte med så god mat. Trevlig betjäning. Den stappliga svenskan i menyns beskrivningar är lite roande.Om det är något minustecken så är det väl att bortsett från Vindaloo-rätterna så fanns det få starka rätter. Om de är så starka som de brukar så är det ett väl stort glapp ned till två-chilli-rätterna.",
+        "ReviewDate": "2013-10-07 kl. 11:24",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "0",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Therese_Tossavainen/",
+          "text": "Therese Tossavainen"
+        },
+        "ReviewTest": "Hörde att de skulle komma hit! Jättegod mat, trevligt bemötande! Liten och tråkig lokal. Hoppas de etablerar sig och kan flytta till bättre snart! Ger dem 4 av 5.",
+        "ReviewDate": "2013-08-16 kl. 17:23",
+        "ReviewRate": "Betyg: 4",
+        "ReviewLike": "0",
+        "ReviewDislike": "0"
+      }
+    ]
+  }
+}, {
+  "name": "Resturangkartan Resturant",
+  "count": 11,
+  "frequency": "Manual Crawl",
+  "version": 8,
+  "newdata": true,
+  "lastrunstatus": "success",
+  "lastsuccess": "Sat Feb 14 2015 12:57:59 GMT+0000 (UTC)",
+  "thisversionstatus": "success",
+  "thisversionrun": "Sat Feb 14 2015 12:57:41 GMT+0000 (UTC)",
+  "url": "http://www.restaurangkartan.se/08746/Stekhuset_Kom_Snart_Igen",
+  "results": {
+    "collection1": [
+      {
+        "Name": "Stekhuset Kom Snart Igen",
+        "Description": "Stekhuset, köket, miljön och matlagnings konceptet inriktar sig mot det Italienska köttgrill köket med fisk och skaldjur lagat med smak från olika delar av Europa som Italien, Frankrike, Portugal och Spanien. Ett brett sortiment av vin i vinkällaren ger inspiration från alla världens hörn i samband med olika maträtter.",
+        "Street": "Skeppsbron 1",
+        "Zip": "",
+        "City": "Kalmar",
+        "Tel": "0480-423858",
+        "Image": {
+          "src": "http://www.allakartor.se/venue_images_100/8746_66609437.jpg",
+          "alt": "Bilder från Stekhuset Kom Snart Igen",
+          "href": "http://www.restaurangkartan.se/08746/images/",
+          "text": ""
+        }
+      }
+    ],
+    "collection3": [
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/BosseBB/",
+          "text": "BosseBB"
+        },
+        "ReviewTest": "Hyfsat Lamm och oxfile. Lammet var rätt stekt och fint kött (medium-well done, men oxfilen var helt rå Medium-raw). Fin köttbit dock. God pommes och goda såser. Snabb service.",
+        "ReviewDate": "2014-09-04 kl. 20:33",
+        "ReviewRate": "Betyg: 3",
+        "ReviewLike": "0",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/SmallLionheart/",
+          "text": "SmallLionheart"
+        },
+        "ReviewTest": "Tillbaka efter 3 år och jag konstaterar att maten fortfarande är mycket vällagad. Förrätten är ganska väl tilltagen, vilket är bra för huvudrätten låter vänta på sig medan allt tillagas från grunden. Den stora luckan in till köket gör att den nyfikne kan se sin mat tillagas :-). Men varför serverades halvfabrikatshamburage till barnen? Vid förra besöket var ju barnrätten det som var mest positivt?!",
+        "ReviewDate": "2014-08-13 kl. 08:15",
+        "ReviewRate": "Betyg: 4",
+        "ReviewLike": "2",
+        "ReviewDislike": "1"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Joh666/",
+          "text": "Joh666"
+        },
+        "ReviewTest": "Magiskt god Skogshuggarplanka!!! Inredning kan man önska mer men....",
+        "ReviewDate": "2013-11-14 kl. 22:02",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "0",
+        "ReviewDislike": "1"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/M6FRJO/",
+          "text": "M6FRJO"
+        },
+        "ReviewTest": "Jätte god mat med hög kvalite och en jätte mysig och trevlig restaurang. Inget är färdiglagat utan man får vänta medan maten tillagas.",
+        "ReviewDate": "2013-05-14 kl. 14:40",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "2",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Surikaten/",
+          "text": "Surikaten"
+        },
+        "ReviewTest": "En lite märklig restaurang i all välmening. Vid mitt besök gapar menytavlan utanför tom. Inne ser det ut som en småtrist vägkrog. I taket vinrankor av plast. På borden plastblommor på dukar av pappersservetter. Inplastad tjock meny. Vid bordet bredvid har sällskapet fått fel rätter men det ordnar sig. Beställer en lammfilé - som är klanderfri, men helt utan lull-lull. Skolmatsal de lux?",
+        "ReviewDate": "2012-04-19 kl. 12:38",
+        "ReviewRate": "Betyg: 4",
+        "ReviewLike": "2",
+        "ReviewDislike": "1"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/jerner/",
+          "text": "jerner"
+        },
+        "ReviewTest": "vi är mycket nöjda både med maten och personalen!mycket bra portioner,man blir garanterat mätt när man äter förrätt och varmrätt.",
+        "ReviewDate": "2012-01-06 kl. 21:02",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "2",
+        "ReviewDislike": "2"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Mikael_Lindahl/",
+          "text": "Mikael Lindahl"
+        },
+        "ReviewTest": "En restaurang med välsmakande meny rakt igenom, från förrätt till efterrätt. Kan tillaga kött så att det smakar riktigt gott. Äter där med glädje både privat och vid utegång med anställda.",
+        "ReviewDate": "2011-12-18 kl. 00:17",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "1",
+        "ReviewDislike": "2"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Annica_Appelberg/",
+          "text": "Annica Appelberg"
+        },
+        "ReviewTest": "Kanonställe! Smarrig mat, bra service o humana priser!",
+        "ReviewDate": "2011-09-26 kl. 18:32",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "1",
+        "ReviewDislike": "1"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Linn_B/",
+          "text": "Linn B"
+        },
+        "ReviewTest": "Prisvärt och jättegott. Fick perfekt genomstekt kött när jag bad om detta. Rödvinsreduktionen är verkligen värd ett besök! \nLigger trevligt i hamnen och personalen är trevlig!",
+        "ReviewDate": "2011-08-01 kl. 09:46",
+        "ReviewRate": "Betyg: 4",
+        "ReviewLike": "2",
+        "ReviewDislike": "1"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Camilla_O/",
+          "text": "Camilla O"
+        },
+        "ReviewTest": "Är man ute efter goda biffar ska man ta sig hit. Helt klart värt ett besök.",
+        "ReviewDate": "2010-01-20 kl. 14:28",
+        "ReviewRate": "Betyg: 4",
+        "ReviewLike": "1",
+        "ReviewDislike": "2"
+      }
+    ]
+  }
+}, {
+  "name": "Resturangkartan Resturant",
+  "count": 11,
+  "frequency": "Manual Crawl",
+  "version": 8,
+  "newdata": true,
+  "lastrunstatus": "success",
+  "lastsuccess": "Sat Feb 14 2015 12:57:59 GMT+0000 (UTC)",
+  "thisversionstatus": "success",
+  "thisversionrun": "Sat Feb 14 2015 12:57:41 GMT+0000 (UTC)",
+  "results": {
+    "collection1": [
+      {
+        "Name": "Stekhuset Kom Snart Igen",
+        "Description": "Stekhuset, köket, miljön och matlagnings konceptet inriktar sig mot det Italienska köttgrill köket med fisk och skaldjur lagat med smak från olika delar av Europa som Italien, Frankrike, Portugal och Spanien. Ett brett sortiment av vin i vinkällaren ger inspiration från alla världens hörn i samband med olika maträtter.",
+        "Street": "Skeppsbron 1",
+        "Zip": "",
+        "City": "Kalmar",
+        "Tel": "0480-423858",
+        "Image": {
+          "src": "http://www.allakartor.se/venue_images_100/8746_66609437.jpg",
+          "alt": "Bilder från Stekhuset Kom Snart Igen",
+          "href": "http://www.restaurangkartan.se/08746/images/",
+          "text": ""
+        }
+      }
+    ],
+    "collection3": [
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/BosseBB/",
+          "text": "BosseBB"
+        },
+        "ReviewTest": "Hyfsat Lamm och oxfile. Lammet var rätt stekt och fint kött (medium-well done, men oxfilen var helt rå Medium-raw). Fin köttbit dock. God pommes och goda såser. Snabb service.",
+        "ReviewDate": "2014-09-04 kl. 20:33",
+        "ReviewRate": "Betyg: 3",
+        "ReviewLike": "0",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/SmallLionheart/",
+          "text": "SmallLionheart"
+        },
+        "ReviewTest": "Tillbaka efter 3 år och jag konstaterar att maten fortfarande är mycket vällagad. Förrätten är ganska väl tilltagen, vilket är bra för huvudrätten låter vänta på sig medan allt tillagas från grunden. Den stora luckan in till köket gör att den nyfikne kan se sin mat tillagas :-). Men varför serverades halvfabrikatshamburage till barnen? Vid förra besöket var ju barnrätten det som var mest positivt?!",
+        "ReviewDate": "2014-08-13 kl. 08:15",
+        "ReviewRate": "Betyg: 4",
+        "ReviewLike": "2",
+        "ReviewDislike": "1"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Joh666/",
+          "text": "Joh666"
+        },
+        "ReviewTest": "Magiskt god Skogshuggarplanka!!! Inredning kan man önska mer men....",
+        "ReviewDate": "2013-11-14 kl. 22:02",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "0",
+        "ReviewDislike": "1"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/M6FRJO/",
+          "text": "M6FRJO"
+        },
+        "ReviewTest": "Jätte god mat med hög kvalite och en jätte mysig och trevlig restaurang. Inget är färdiglagat utan man får vänta medan maten tillagas.",
+        "ReviewDate": "2013-05-14 kl. 14:40",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "2",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Surikaten/",
+          "text": "Surikaten"
+        },
+        "ReviewTest": "En lite märklig restaurang i all välmening. Vid mitt besök gapar menytavlan utanför tom. Inne ser det ut som en småtrist vägkrog. I taket vinrankor av plast. På borden plastblommor på dukar av pappersservetter. Inplastad tjock meny. Vid bordet bredvid har sällskapet fått fel rätter men det ordnar sig. Beställer en lammfilé - som är klanderfri, men helt utan lull-lull. Skolmatsal de lux?",
+        "ReviewDate": "2012-04-19 kl. 12:38",
+        "ReviewRate": "Betyg: 4",
+        "ReviewLike": "2",
+        "ReviewDislike": "1"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/jerner/",
+          "text": "jerner"
+        },
+        "ReviewTest": "vi är mycket nöjda både med maten och personalen!mycket bra portioner,man blir garanterat mätt när man äter förrätt och varmrätt.",
+        "ReviewDate": "2012-01-06 kl. 21:02",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "2",
+        "ReviewDislike": "2"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Mikael_Lindahl/",
+          "text": "Mikael Lindahl"
+        },
+        "ReviewTest": "En restaurang med välsmakande meny rakt igenom, från förrätt till efterrätt. Kan tillaga kött så att det smakar riktigt gott. Äter där med glädje både privat och vid utegång med anställda.",
+        "ReviewDate": "2011-12-18 kl. 00:17",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "1",
+        "ReviewDislike": "2"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Annica_Appelberg/",
+          "text": "Annica Appelberg"
+        },
+        "ReviewTest": "Kanonställe! Smarrig mat, bra service o humana priser!",
+        "ReviewDate": "2011-09-26 kl. 18:32",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "1",
+        "ReviewDislike": "1"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Linn_B/",
+          "text": "Linn B"
+        },
+        "ReviewTest": "Prisvärt och jättegott. Fick perfekt genomstekt kött när jag bad om detta. Rödvinsreduktionen är verkligen värd ett besök! \nLigger trevligt i hamnen och personalen är trevlig!",
+        "ReviewDate": "2011-08-01 kl. 09:46",
+        "ReviewRate": "Betyg: 4",
+        "ReviewLike": "2",
+        "ReviewDislike": "1"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Camilla_O/",
+          "text": "Camilla O"
+        },
+        "ReviewTest": "Är man ute efter goda biffar ska man ta sig hit. Helt klart värt ett besök.",
+        "ReviewDate": "2010-01-20 kl. 14:28",
+        "ReviewRate": "Betyg: 4",
+        "ReviewLike": "1",
+        "ReviewDislike": "2"
+      }
+    ]
+  }
+}, {
+  "name": "Resturangkartan Resturant",
+  "count": 11,
+  "frequency": "Manual Crawl",
+  "version": 9,
+  "newdata": true,
+  "lastrunstatus": "success",
+  "lastsuccess": "Sat Feb 14 2015 13:05:42 GMT+0000 (UTC)",
+  "thisversionstatus": "success",
+  "thisversionrun": "Sat Feb 14 2015 13:05:34 GMT+0000 (UTC)",
+  "url": "http://www.restaurangkartan.se/0178160/Sparta_Pizzabutik",
+  "results": {
+    "collection1": [
+      {
+        "Name": "Sparta Pizzabutik",
+        "Description": "Pizza för avhämtning. Säljer pizzor, panpizza, sallader, hamburgare, kebab och gyros. Luncherbjudande vardagar klockan 11.30-14.00.",
+        "Street": "Lille Bullens Väg 1, Norrlidens centrum",
+        "Zip": "39358",
+        "City": "Kalmar",
+        "Tel": "0480-10582",
+        "Image": {
+          "src": "http://www.allakartor.se/graphics/no_image_100.gif",
+          "alt": "Bilder från Sparta Pizzabutik",
+          "href": "http://www.restaurangkartan.se/0178160/images/",
+          "text": ""
+        }
+      }
+    ],
+    "collection3": [
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Marianne73/",
+          "text": "Marianne73"
+        },
+        "ReviewTest": "Bästa och godaste pizza jag ätit någonsin! God deg, bra smaker på fyllingen, jättegod pizzasallad och sås. Trevlig o snabb personal. Favoriten nr ett i stan :)",
+        "ReviewDate": "2014-11-22 kl. 17:29",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "1",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Bme_today/",
+          "text": "Bme today"
+        },
+        "ReviewTest": "Klart Kalmars bästa pizza och jag har provat de flesta! Att det finns gyrospizza är ett storg plus!God deg, saftigt kött och lagom stora med mycket ingredienser. Helt klart favoriten!",
+        "ReviewDate": "2014-11-06 kl. 04:45",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "0",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Jim_Haglund/",
+          "text": "Jim Haglund"
+        },
+        "ReviewTest": "Köpte en Vesuvio, ingen god ost,för tunna skinkskivor ,de blir för torra. Degen ej genombakat i kanterna.",
+        "ReviewDate": "2014-01-12 kl. 20:44",
+        "ReviewRate": "Betyg: 2",
+        "ReviewLike": "0",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Netta003/",
+          "text": "Netta003"
+        },
+        "ReviewTest": "Helt outstanding! Bästa pizzan i Kalmar! Tack snälla ni på sparta för att ni finns!",
+        "ReviewDate": "2013-08-25 kl. 16:20",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "2",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/ellispellis/",
+          "text": "ellispellis"
+        },
+        "ReviewTest": "Det var ett litet ställe och lite för små pizzor. Ingen god ost",
+        "ReviewDate": "2013-07-26 kl. 11:57",
+        "ReviewRate": "Betyg: 1",
+        "ReviewLike": "0",
+        "ReviewDislike": "3"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Pizzaexpertensegnatips/",
+          "text": "Pizzaexpertensegnatips"
+        },
+        "ReviewTest": "Random. 1900kr för en trippel familjepizza. Tid:Långsammare än en 1minute man. Storlek: Helt ok, men har sett större. Skinka:Hårig Ost:Musen i huset gav den godkänt. Deg: Den smet ner. Sallad: Titanic skulle kommit undan denna lilla mängd ´isbergs´-sallad som ingick. Av alla pizzerior jag käkat på här i Kalmar,så kan jag pizza-experten själv intyga att denna pizzeria håller muren uppe på en skala 3,5/5. MVH PIZZAEXPERTEN",
+        "ReviewDate": "2013-03-03 kl. 17:04",
+        "ReviewRate": "Betyg: 3",
+        "ReviewLike": "1",
+        "ReviewDislike": "6"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Cyklatillbahamas/",
+          "text": "Cyklatillbahamas"
+        },
+        "ReviewTest": "Köpte en familjepizza, vesuvio. Pris: standard, 150 för familjepizzan. Tid: snabb. Storlek: aningen liten. Skinka: Bra. Ost: suverän. Deg: suverän. Sallad: helt okej. Vitlökssås: supergod. Av alla pizzerior vi har testat i kalmar så är detta den enda som mäter sig med Italia.",
+        "ReviewDate": "2013-01-25 kl. 15:07",
+        "ReviewRate": "Betyg: 4",
+        "ReviewLike": "2",
+        "ReviewDislike": "2"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Guran222/",
+          "text": "Guran222"
+        },
+        "ReviewTest": "Mycket bra pizzeria. Åt här i somras och det var toppen",
+        "ReviewDate": "2013-01-21 kl. 17:18",
+        "ReviewRate": "Betyg: 3",
+        "ReviewLike": "1",
+        "ReviewDislike": "1"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/KarinB/",
+          "text": "KarinB"
+        },
+        "ReviewTest": "Trevlig personal som ofta bjuder på det lilla extra. Mumsiga pizzor!Snabb service. Synd att lokalen är så liten att det bara är hämtmat.",
+        "ReviewDate": "2012-10-26 kl. 12:48",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "5",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/hopppp/",
+          "text": "hopppp"
+        },
+        "ReviewTest": "Har bara provat deras gyrosrulle med stark sås, den smakade verkligen bra! Klart värt resan från centrum så hit kommer jag absolut igen. Tyvärr har de bara mat för avhämtning, trotts det är det ett mycket poppulärt ställe för det kryllade av kunder!",
+        "ReviewDate": "2012-05-12 kl. 20:28",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "3",
+        "ReviewDislike": "1"
+      }
+    ]
+  }
+}, {
+  "name": "Resturangkartan Resturant",
+  "count": 3,
+  "frequency": "Manual Crawl",
+  "version": 10,
+  "newdata": true,
+  "lastrunstatus": "success",
+  "lastsuccess": "Sat Feb 14 2015 13:05:54 GMT+0000 (UTC)",
+  "thisversionstatus": "success",
+  "thisversionrun": "Sat Feb 14 2015 13:05:46 GMT+0000 (UTC)",
+  "url": "http://www.restaurangkartan.se/011036/Kebabben",
+  "results": {
+    "collection1": [
+      {
+        "Name": "Kebabben",
+        "Description": "Detta är en restaurang som ligger på Larmgatan 11 i Kalmar.",
+        "Street": "Larmgatan 11",
+        "Zip": "",
+        "City": "Kalmar",
+        "Tel": "0480-21237",
+        "Image": {
+          "src": "http://www.allakartor.se/venue_images_100/11036_321632157879979.jpg",
+          "alt": "Bilder från Kebabben",
+          "href": "http://www.restaurangkartan.se/011036/images/",
+          "text": ""
+        }
+      }
+    ],
+    "collection3": [
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/JJ2004/",
+          "text": "JJ2004"
+        },
+        "ReviewTest": "En kebab i pitabröd efter en utekväll är så underbart gott. Vitkål istället för lök är deras specialitet, men du kan få lök istället/också om du vill ha det.",
+        "ReviewDate": "2012-01-07 kl. 11:17",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "0",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/nadiaälskare/",
+          "text": "nadiaälskare"
+        },
+        "ReviewTest": "Världens godaste kycklingsallad. En klar favorit.",
+        "ReviewDate": "2010-09-18 kl. 14:18",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "1",
+        "ReviewDislike": "0"
+      }
+    ]
+  }
+}, {
+  "name": "Resturangkartan Resturant",
+  "count": 4,
+  "frequency": "Manual Crawl",
+  "version": 11,
+  "newdata": true,
+  "lastrunstatus": "success",
+  "lastsuccess": "Sat Feb 14 2015 13:06:03 GMT+0000 (UTC)",
+  "thisversionstatus": "success",
+  "thisversionrun": "Sat Feb 14 2015 13:05:55 GMT+0000 (UTC)",
+  "url": "http://www.restaurangkartan.se/013562/Tallhagens_Pizzeria_KB",
+  "results": {
+    "collection1": [
+      {
+        "Name": "Tallhagens Pizzeria KB",
+        "Description": "Detta är en pizza-restaurang som ligger på Tallhagsvägen i Kalmar.",
+        "Street": "Tallhagsvägen",
+        "Zip": "",
+        "City": "Kalmar",
+        "Tel": "0480-51040",
+        "Image": {
+          "src": "http://www.allakartor.se/graphics/no_image_100.gif",
+          "alt": "Bilder från Tallhagens Pizzeria KB",
+          "href": "http://www.restaurangkartan.se/013562/images/",
+          "text": ""
+        }
+      }
+    ],
+    "collection3": [
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/adolf_hitler/",
+          "text": "adolf hitler"
+        },
+        "ReviewTest": "mums mums mums mums mums mums mus mums mums",
+        "ReviewDate": "2013-09-05 kl. 11:38",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "0",
+        "ReviewDislike": "1"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Rughz81/",
+          "text": "Rughz81"
+        },
+        "ReviewTest": "Supergoda pizzor, bra och trevlig service!",
+        "ReviewDate": "2012-08-05 kl. 23:30",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "1",
+        "ReviewDislike": "3"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Christian_Sandholm/",
+          "text": "Christian Sandholm"
+        },
+        "ReviewTest": "Enkel och utomordenligt fräsch hämtpizzeria. Jag har mest ätit kebabpizzorna och de är goda!",
+        "ReviewDate": "2010-11-30 kl. 09:52",
+        "ReviewRate": "Betyg: 4",
+        "ReviewLike": "2",
+        "ReviewDislike": "4"
+      }
+    ]
+  }
+}, {
+  "name": "Resturangkartan Resturant",
+  "count": 4,
+  "frequency": "Manual Crawl",
+  "version": 12,
+  "newdata": true,
+  "lastrunstatus": "success",
+  "lastsuccess": "Sat Feb 14 2015 13:06:12 GMT+0000 (UTC)",
+  "thisversionstatus": "success",
+  "thisversionrun": "Sat Feb 14 2015 13:06:05 GMT+0000 (UTC)",
+  "url": "http://www.restaurangkartan.se/012076/Pizzeria_Restaurang_Capri",
+  "results": {
+    "collection1": [
+      {
+        "Name": "Pizzeria Restaurang Capri",
+        "Description": "Detta är en pizza-restaurang som ligger på Smedbyvägen i Kalmar.",
+        "Street": "Smedbyvägen",
+        "Zip": "",
+        "City": "Kalmar",
+        "Tel": "0480-479659",
+        "Image": {
+          "src": "http://www.allakartor.se/graphics/no_image_100.gif",
+          "alt": "Bilder från Pizzeria Restaurang Capri",
+          "href": "http://www.restaurangkartan.se/012076/images/",
+          "text": ""
+        }
+      }
+    ],
+    "collection3": [
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/liselottå/",
+          "text": "liselottå"
+        },
+        "ReviewTest": "Bästa pizzan någonsin: grillad vegetarisk på fullkornsbotten. Slår alla andra pizzorior i Kalmar! Supergod! Resten av familjen var också supernöjda med sina pizzor.",
+        "ReviewDate": "2013-05-26 kl. 20:14",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "2",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Mia_Hall/",
+          "text": "Mia Hall"
+        },
+        "ReviewTest": "Väldigt goda pizzor! I alla fall sist jag kollade! :D",
+        "ReviewDate": "2011-06-27 kl. 22:48",
+        "ReviewRate": "Betyg: 4",
+        "ReviewLike": "1",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Netta003/",
+          "text": "Netta003"
+        },
+        "ReviewTest": "älskar dessa pizzor! Speciellt Kevin special!",
+        "ReviewDate": "2010-08-12 kl. 13:39",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "1",
+        "ReviewDislike": "2"
+      }
+    ]
+  }
+}, {
+  "name": "Resturangkartan Resturant",
+  "count": 11,
+  "frequency": "Manual Crawl",
+  "version": 13,
+  "newdata": true,
+  "lastrunstatus": "success",
+  "lastsuccess": "Sat Feb 14 2015 13:06:22 GMT+0000 (UTC)",
+  "thisversionstatus": "success",
+  "thisversionrun": "Sat Feb 14 2015 13:06:14 GMT+0000 (UTC)",
+  "url": "http://www.restaurangkartan.se/0159/Kama_Sushi",
+  "results": {
+    "collection1": [
+      {
+        "Name": "Kama Sushi",
+        "Description": "På Västra Sjögatan hittar du denna sushirestaurang med liten servering med cirka 20 platser. Prisvärt lunchalternativ där misosoppa och te ingår.",
+        "Street": "Västra Sjögatan 13",
+        "Zip": "39232",
+        "City": "Kalmar",
+        "Tel": "0480-54878",
+        "Image": {
+          "src": "http://www.allakartor.se/venue_images_100/159_89971379.jpg",
+          "alt": "Bilder från Kama Sushi",
+          "href": "http://www.restaurangkartan.se/0159/images/",
+          "text": ""
+        }
+      }
+    ],
+    "collection3": [
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/GGustafsson/",
+          "text": "GGustafsson"
+        },
+        "ReviewTest": "Inte bäst men ändå mycket bra! Bor man i Kalmartrakten så är det hit man går när suget slår till.",
+        "ReviewDate": "2014-12-06 kl. 12:40",
+        "ReviewRate": "Betyg: 4",
+        "ReviewLike": "0",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Hello_Sushi/",
+          "text": "Hello Sushi"
+        },
+        "ReviewTest": "Det var mättande och smakade bra, men det var ändå något som saknades. Jag köpte tolv bitar vegetarisk sushi, vilket kostade 100 kronor vid lunch. Det var inte så stor variation på bitarna, något som hade kunnat göras bättre. Det var positivt att det var så pass många bitar som var nigiri (8 av 12). Sojan var i en liten burk som det var svårt att doppa i.",
+        "ReviewDate": "2014-11-17 kl. 12:31",
+        "ReviewRate": "Betyg: 3",
+        "ReviewLike": "0",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Erika_Fredriksson/",
+          "text": "Erika Fredriksson"
+        },
+        "ReviewTest": "Världens bästa sushi, alltid perfekt, alltid trevlig personal, man får utforma sin egen sushi. Saknar Kama när jag har flyttat ifrån Kalmar, dom håller världsklass!",
+        "ReviewDate": "2014-09-18 kl. 10:58",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "1",
+        "ReviewDislike": "1"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Räkan_Petersson/",
+          "text": "Räkan Petersson"
+        },
+        "ReviewTest": "Var bättre ett par år sen, men fortfarande väldigt gott och fräscht. Lite dyrt för så små bitar, men så himla gott att det är värt några extra kronor!",
+        "ReviewDate": "2014-08-10 kl. 18:07",
+        "ReviewRate": "Betyg: 4",
+        "ReviewLike": "0",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Ellenbellen/",
+          "text": "Ellenbellen"
+        },
+        "ReviewTest": "Supertrevlig personal! Finns både spännande sushi-bitar för den mer äventyrliga t.ex bläckfisk, mussla, ål m.m men även standard-sushi för nybörjaren! Fantastisk miso och alltid väldigt bra ris! Har alltid lämnat restaurangen mätt och lycklig! Prisvärt! Mitt tips, kockens val, alltid lika spännande! Har testat många sushi-restauranger i Sverige men ingen har nåt upp till samma nivå som Kama Sushi!",
+        "ReviewDate": "2014-05-07 kl. 15:40",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "1",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/StefanP/",
+          "text": "StefanP"
+        },
+        "ReviewTest": "Nej, det här var inte en hit. I ett blindtest så hade jag nog gissat på en plastlåda med sushi från kyldisken på en mataffär.Laxen i bitarna var inte av toppkvalitet. För mycket gammalfisklukt. Inte så att det är någon hälsofara, men inte toppenkvalitet. Och laxen var blöt och lätt mosig. Jag gissar att den frusits om. Avokadobitarna var lite för omogna. Bitarna föll i sär.",
+        "ReviewDate": "2013-10-08 kl. 11:05",
+        "ReviewRate": "Betyg: 2",
+        "ReviewLike": "1",
+        "ReviewDislike": "4"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Fru_Fransson/",
+          "text": "Fru Fransson"
+        },
+        "ReviewTest": "Var bättre för ett par år sedan, tycker ibland att bitarna är lite slarvigt gjorda. Kan dock rekommendera sashimin, alltid väl tilltaget, snyggt upplagt, gott och varierat.",
+        "ReviewDate": "2013-07-27 kl. 17:26",
+        "ReviewRate": "Betyg: 4",
+        "ReviewLike": "0",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Anette_M/",
+          "text": "Anette M"
+        },
+        "ReviewTest": "Bra kvalitet varje gång jag äter här! Min favorit är deras laxbitar, ljuvligt tillsammans med ingefäran och wasabi blandad i sojan.",
+        "ReviewDate": "2013-04-11 kl. 17:50",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "1",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Filip_Magounakis/",
+          "text": "Filip Magounakis"
+        },
+        "ReviewTest": "En av de bättre jag besökt. Kockens val gör aldrig en besviken.",
+        "ReviewDate": "2013-03-07 kl. 23:43",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "2",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Jörgen_Tannerstedt/",
+          "text": "Jörgen Tannerstedt"
+        },
+        "ReviewTest": "En av de bästa jag provat i Sverige. Fräscht, smakrikt och helt perfekt.",
+        "ReviewDate": "2012-12-28 kl. 17:13",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "0",
+        "ReviewDislike": "0"
+      }
+    ]
+  }
+}, {
+  "name": "Resturangkartan Resturant",
+  "count": 4,
+  "frequency": "Manual Crawl",
+  "version": 14,
+  "newdata": true,
+  "lastrunstatus": "success",
+  "lastsuccess": "Sat Feb 14 2015 13:06:40 GMT+0000 (UTC)",
+  "thisversionstatus": "success",
+  "thisversionrun": "Sat Feb 14 2015 13:06:33 GMT+0000 (UTC)",
+  "url": "http://www.restaurangkartan.se/0473704/Tandoori_House",
+  "results": {
+    "collection1": [
+      {
+        "Name": "Tandoori House",
+        "Description": "Indisk restaurang i centrala Kalmar. Stort utbud av indiska rätter till rimligt pris. Sittplatser, take away och hemkörning.",
+        "Street": "Storgatan 24",
+        "Zip": "39232",
+        "City": "Kalmar",
+        "Tel": "0480-432543",
+        "Image": {
+          "src": "http://www.allakartor.se/venue_images_100/473704_139308846254022.jpg",
+          "alt": "Bilder från Tandoori House",
+          "href": "http://www.restaurangkartan.se/0473704/images/",
+          "text": ""
+        }
+      }
+    ],
+    "collection3": [
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Cissi50/",
+          "text": "Cissi50"
+        },
+        "ReviewTest": "God mat, trevlig miljö och bra service från personalen!",
+        "ReviewDate": "2014-05-28 kl. 21:29",
+        "ReviewRate": "Betyg: 4",
+        "ReviewLike": "0",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/StefanP/",
+          "text": "StefanP"
+        },
+        "ReviewTest": "Har ätit två gånger här. Mycket goda rätter, bland de bättre indier jag provat. Väldigt fina smaknyanser i de rätter som jag provade (som hade två chillifrukter som styrka i menyn), inte bara starkt. Jag gillar att lokalen inte är så tyngd av indisk-look-alike-utsmyckning. Det behövs inte med så god mat. Trevlig betjäning. Den stappliga svenskan i menyns beskrivningar är lite roande.Om det är något minustecken så är det väl att bortsett från Vindaloo-rätterna så fanns det få starka rätter. Om de är så starka som de brukar så är det ett väl stort glapp ned till två-chilli-rätterna.",
+        "ReviewDate": "2013-10-07 kl. 11:24",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "0",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Therese_Tossavainen/",
+          "text": "Therese Tossavainen"
+        },
+        "ReviewTest": "Hörde att de skulle komma hit! Jättegod mat, trevligt bemötande! Liten och tråkig lokal. Hoppas de etablerar sig och kan flytta till bättre snart! Ger dem 4 av 5.",
+        "ReviewDate": "2013-08-16 kl. 17:23",
+        "ReviewRate": "Betyg: 4",
+        "ReviewLike": "0",
+        "ReviewDislike": "0"
+      }
+    ]
+  }
+}, {
+  "name": "Resturangkartan Resturant",
+  "count": 11,
+  "frequency": "Manual Crawl",
+  "version": 15,
+  "newdata": true,
+  "lastrunstatus": "success",
+  "lastsuccess": "Sat Feb 14 2015 13:06:50 GMT+0000 (UTC)",
+  "thisversionstatus": "success",
+  "thisversionrun": "Sat Feb 14 2015 13:06:42 GMT+0000 (UTC)",
+  "url": "http://www.restaurangkartan.se/08746/Stekhuset_Kom_Snart_Igen",
+  "results": {
+    "collection1": [
+      {
+        "Name": "Stekhuset Kom Snart Igen",
+        "Description": "Stekhuset, köket, miljön och matlagnings konceptet inriktar sig mot det Italienska köttgrill köket med fisk och skaldjur lagat med smak från olika delar av Europa som Italien, Frankrike, Portugal och Spanien. Ett brett sortiment av vin i vinkällaren ger inspiration från alla världens hörn i samband med olika maträtter.",
+        "Street": "Skeppsbron 1",
+        "Zip": "",
+        "City": "Kalmar",
+        "Tel": "0480-423858",
+        "Image": {
+          "src": "http://www.allakartor.se/venue_images_100/8746_66609437.jpg",
+          "alt": "Bilder från Stekhuset Kom Snart Igen",
+          "href": "http://www.restaurangkartan.se/08746/images/",
+          "text": ""
+        }
+      }
+    ],
+    "collection3": [
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/BosseBB/",
+          "text": "BosseBB"
+        },
+        "ReviewTest": "Hyfsat Lamm och oxfile. Lammet var rätt stekt och fint kött (medium-well done, men oxfilen var helt rå Medium-raw). Fin köttbit dock. God pommes och goda såser. Snabb service.",
+        "ReviewDate": "2014-09-04 kl. 20:33",
+        "ReviewRate": "Betyg: 3",
+        "ReviewLike": "0",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/SmallLionheart/",
+          "text": "SmallLionheart"
+        },
+        "ReviewTest": "Tillbaka efter 3 år och jag konstaterar att maten fortfarande är mycket vällagad. Förrätten är ganska väl tilltagen, vilket är bra för huvudrätten låter vänta på sig medan allt tillagas från grunden. Den stora luckan in till köket gör att den nyfikne kan se sin mat tillagas :-). Men varför serverades halvfabrikatshamburage till barnen? Vid förra besöket var ju barnrätten det som var mest positivt?!",
+        "ReviewDate": "2014-08-13 kl. 08:15",
+        "ReviewRate": "Betyg: 4",
+        "ReviewLike": "2",
+        "ReviewDislike": "1"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Joh666/",
+          "text": "Joh666"
+        },
+        "ReviewTest": "Magiskt god Skogshuggarplanka!!! Inredning kan man önska mer men....",
+        "ReviewDate": "2013-11-14 kl. 22:02",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "0",
+        "ReviewDislike": "1"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/M6FRJO/",
+          "text": "M6FRJO"
+        },
+        "ReviewTest": "Jätte god mat med hög kvalite och en jätte mysig och trevlig restaurang. Inget är färdiglagat utan man får vänta medan maten tillagas.",
+        "ReviewDate": "2013-05-14 kl. 14:40",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "2",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Surikaten/",
+          "text": "Surikaten"
+        },
+        "ReviewTest": "En lite märklig restaurang i all välmening. Vid mitt besök gapar menytavlan utanför tom. Inne ser det ut som en småtrist vägkrog. I taket vinrankor av plast. På borden plastblommor på dukar av pappersservetter. Inplastad tjock meny. Vid bordet bredvid har sällskapet fått fel rätter men det ordnar sig. Beställer en lammfilé - som är klanderfri, men helt utan lull-lull. Skolmatsal de lux?",
+        "ReviewDate": "2012-04-19 kl. 12:38",
+        "ReviewRate": "Betyg: 4",
+        "ReviewLike": "2",
+        "ReviewDislike": "1"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/jerner/",
+          "text": "jerner"
+        },
+        "ReviewTest": "vi är mycket nöjda både med maten och personalen!mycket bra portioner,man blir garanterat mätt när man äter förrätt och varmrätt.",
+        "ReviewDate": "2012-01-06 kl. 21:02",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "2",
+        "ReviewDislike": "2"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Mikael_Lindahl/",
+          "text": "Mikael Lindahl"
+        },
+        "ReviewTest": "En restaurang med välsmakande meny rakt igenom, från förrätt till efterrätt. Kan tillaga kött så att det smakar riktigt gott. Äter där med glädje både privat och vid utegång med anställda.",
+        "ReviewDate": "2011-12-18 kl. 00:17",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "1",
+        "ReviewDislike": "2"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Annica_Appelberg/",
+          "text": "Annica Appelberg"
+        },
+        "ReviewTest": "Kanonställe! Smarrig mat, bra service o humana priser!",
+        "ReviewDate": "2011-09-26 kl. 18:32",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "1",
+        "ReviewDislike": "1"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Linn_B/",
+          "text": "Linn B"
+        },
+        "ReviewTest": "Prisvärt och jättegott. Fick perfekt genomstekt kött när jag bad om detta. Rödvinsreduktionen är verkligen värd ett besök! \nLigger trevligt i hamnen och personalen är trevlig!",
+        "ReviewDate": "2011-08-01 kl. 09:46",
+        "ReviewRate": "Betyg: 4",
+        "ReviewLike": "2",
+        "ReviewDislike": "1"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Camilla_O/",
+          "text": "Camilla O"
+        },
+        "ReviewTest": "Är man ute efter goda biffar ska man ta sig hit. Helt klart värt ett besök.",
+        "ReviewDate": "2010-01-20 kl. 14:28",
+        "ReviewRate": "Betyg: 4",
+        "ReviewLike": "1",
+        "ReviewDislike": "2"
+      }
+    ]
+  }
+}, {
+  "name": "Resturangkartan Resturant",
+  "count": 8,
+  "frequency": "Manual Crawl",
+  "version": 16,
+  "newdata": true,
+  "lastrunstatus": "success",
+  "lastsuccess": "Sat Feb 14 2015 13:07:00 GMT+0000 (UTC)",
+  "thisversionstatus": "success",
+  "thisversionrun": "Sat Feb 14 2015 13:06:52 GMT+0000 (UTC)",
+  "url": "http://www.restaurangkartan.se/013054/Rosenlundska_K%25llaren",
+  "results": {
+    "collection1": [
+      {
+        "Name": "Rosenlundska Källaren",
+        "Description": "Detta är en restaurang som ligger på Östra Sjögatan 3 i Kalmar.",
+        "Street": "Östra Sjögatan 3",
+        "Zip": "",
+        "City": "Kalmar",
+        "Tel": "0480-86935",
+        "Image": {
+          "src": "http://www.allakartor.se/venue_images_100/13054_149193858624623.jpg",
+          "alt": "Bilder från Rosenlundska Källaren",
+          "href": "http://www.restaurangkartan.se/013054/images/",
+          "text": ""
+        }
+      }
+    ],
+    "collection3": [
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Jocke_Gustavsson/",
+          "text": "Jocke Gustavsson"
+        },
+        "ReviewTest": "Rekommenderar varmt denna mysiga och trevliga restaurang. Maten var helt magisk och den mysiga källaren och den trevliga personalen gjorde kvällen till den bästa på länge. Stort tack!",
+        "ReviewDate": "2014-02-08 kl. 20:12",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "0",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/SaraJPetterssons/",
+          "text": "SaraJPetterssons"
+        },
+        "ReviewTest": "En lite osynlig pärla i Kalmar, som är värd att leta efter. Fantastiskt god mat och bra service. Den helstekt fläskfilen och gratäng samt den hemmgjorda glassen var höjdpunkterna. Rekomenderas varm!",
+        "ReviewDate": "2014-02-08 kl. 19:52",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "0",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Restaurangbesökaren/",
+          "text": "Restaurangbesökaren"
+        },
+        "ReviewTest": "Förmodligen den sämsta restaurang jag någonsin varit på någonsin efter mina 25 år i Kalmar som hyffsat frekvent besökare. Under ALL kritik! Riktigt dålig mat, där man faktiskt undrar om det finns någon som helst erfarenhet från köket när det gäller matlagning. Vi som var där åt En bränd kalvschnitzel med frysgrönsaker och hamburgare som var som en vidbränd kolbit, kändes som att den var tillagad för flera dgr sedan uppvärmd i en micro. Inte ens en pommes frites kunde denfå till. OBS en coca-cola där är inte ens en Cuba-cola, utan ngn risig billig avart. Servitören fick be om ursäkt till många!",
+        "ReviewDate": "2013-10-06 kl. 09:44",
+        "ReviewRate": "Betyg: 1",
+        "ReviewLike": "2",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Petra_L/",
+          "text": "Petra L"
+        },
+        "ReviewTest": "Inte varje kväll man äter i källarvalv från 1650-talet. Men jag gör gärna om det. Ett gemytligt ställe med trevlig service. Vi provade helgens specialitet, den indiska buffén med ett tjugotal rätter, mycket gott. Ett bra initiativ att ha en indisk buffé i två dagar när Kalmars krogliv saknar en indisk restaurang.",
+        "ReviewDate": "2013-02-17 kl. 11:47",
+        "ReviewRate": "Betyg: 4",
+        "ReviewLike": "0",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Inatina/",
+          "text": "Inatina"
+        },
+        "ReviewTest": "Har ätit en kanonmiddag med förrätt och huvudrätt. Spännande slovenska viner på glas. Är väl värt de extra stegen från Stortorget. / två munskänkar.",
+        "ReviewDate": "2012-07-06 kl. 18:51",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "0",
+        "ReviewDislike": "1"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Helen_Nielsen/",
+          "text": "Helen Nielsen"
+        },
+        "ReviewTest": "Mycket trevligt bemötande och mycket god mat. Vi var ett sällskap som var runt 20 personer och allt fungerade helt utmärkt.",
+        "ReviewDate": "2012-05-23 kl. 11:15",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "0",
+        "ReviewDislike": "1"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Anmaja_Nilsdotter/",
+          "text": "Anmaja Nilsdotter"
+        },
+        "ReviewTest": "De hade jättegott jullunchbord! Kanon och jag kommer att gå dit igen.",
+        "ReviewDate": "2010-01-28 kl. 13:28",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "0",
+        "ReviewDislike": "0"
+      }
+    ]
+  }
+}, {
+  "name": "Resturangkartan Resturant",
+  "count": 9,
+  "frequency": "Manual Crawl",
+  "version": 17,
+  "newdata": true,
+  "lastrunstatus": "success",
+  "lastsuccess": "Sat Feb 14 2015 13:07:10 GMT+0000 (UTC)",
+  "thisversionstatus": "success",
+  "thisversionrun": "Sat Feb 14 2015 13:07:02 GMT+0000 (UTC)",
+  "url": "http://www.restaurangkartan.se/010651/Hanssons_Krog_i_Kalmar",
+  "results": {
+    "collection1": [
+      {
+        "Name": "Hanssons Krog i Kalmar",
+        "Description": "Detta är en restaurang som ligger på Norra Långgatan 1 i Kalmar.",
+        "Street": "Norra Långgatan 1",
+        "Zip": "39232",
+        "City": "Kalmar",
+        "Tel": "0480-10421",
+        "Image": {
+          "src": "http://www.allakartor.se/venue_images_100/10651_544230279002690.jpg",
+          "alt": "Bilder från Hanssons Krog i Kalmar",
+          "href": "http://www.restaurangkartan.se/010651/images/",
+          "text": ""
+        }
+      }
+    ],
+    "collection3": [
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Dakota/",
+          "text": "Dakota"
+        },
+        "ReviewTest": "Trevlig personal och god mat. Maten serverades snabbt och det var alldeles lagom portioner. Något trångt kanske, så kan tänka mig att det blir lite ont om plats att ´röra sig på´ när det är fullsatt.",
+        "ReviewDate": "2014-09-15 kl. 22:57",
+        "ReviewRate": "Betyg: 4",
+        "ReviewLike": "0",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/KONSULTJONAS/",
+          "text": "KONSULTJONAS"
+        },
+        "ReviewTest": "Oerhört trevlig service. Schysst mat och ok uteservering.",
+        "ReviewDate": "2012-12-12 kl. 21:39",
+        "ReviewRate": "Betyg: 4",
+        "ReviewLike": "1",
+        "ReviewDislike": "1"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Carlo_P/",
+          "text": "Carlo P"
+        },
+        "ReviewTest": "Mycket personligt! Väldigt goda importerade viner. God mat",
+        "ReviewDate": "2012-02-22 kl. 19:50",
+        "ReviewRate": "Betyg: 4",
+        "ReviewLike": "0",
+        "ReviewDislike": "7"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Annica_Appelberg/",
+          "text": "Annica Appelberg"
+        },
+        "ReviewTest": "Bra lunch, gillar att de alltid bjuder på soppa o hembakat bröd innan! Lite trångt dock...",
+        "ReviewDate": "2011-09-26 kl. 18:30",
+        "ReviewRate": "Betyg: 4",
+        "ReviewLike": "0",
+        "ReviewDislike": "2"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Peter_Rydén/",
+          "text": "Peter Rydén"
+        },
+        "ReviewTest": "Oerhört trevlig personal som gör att man känner sig som man vore en viktig person på den finaste restaurangen. Professionellt och snyggt presenterat och serverat och maten var riktigt god! Vid luncher är det ofta fullt vilket gör att det lätt blir högre ljudvolym och detta för ner betyget något.",
+        "ReviewDate": "2010-11-17 kl. 18:39",
+        "ReviewRate": "Betyg: 4",
+        "ReviewLike": "1",
+        "ReviewDislike": "1"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Anmaja_Nilsdotter/",
+          "text": "Anmaja Nilsdotter"
+        },
+        "ReviewTest": "Alltid gott och trevligt, med förrättssoppa ibland och efterrätt ibland som ingår. Trevlig personal!",
+        "ReviewDate": "2010-09-08 kl. 11:26",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "1",
+        "ReviewDislike": "2"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Gert_Svensson/",
+          "text": "Gert Svensson"
+        },
+        "ReviewTest": "En liten trevlig och mysig krog. God mat och servicemiden personal.",
+        "ReviewDate": "2010-03-01 kl. 06:28",
+        "ReviewRate": "Betyg: 4",
+        "ReviewLike": "3",
+        "ReviewDislike": "3"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Anmaja_Nilsdotter/",
+          "text": "Anmaja Nilsdotter"
+        },
+        "ReviewTest": "Hanssons är favvisstället nummer ett! God mat, trevlig personal - mer behövs knappast, men miljön är fin också.",
+        "ReviewDate": "2010-01-28 kl. 13:26",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "2",
+        "ReviewDislike": "4"
+      }
+    ]
+  }
+}, {
+  "name": "Resturangkartan Resturant",
+  "count": 2,
+  "frequency": "Manual Crawl",
+  "version": 18,
+  "newdata": true,
+  "lastrunstatus": "success",
+  "lastsuccess": "Sat Feb 14 2015 13:07:19 GMT+0000 (UTC)",
+  "thisversionstatus": "success",
+  "thisversionrun": "Sat Feb 14 2015 13:07:12 GMT+0000 (UTC)",
+  "url": "http://www.restaurangkartan.se/0481134/Tomas_och_Charlottas_Matrum",
+  "results": {
+    "collection1": [
+      {
+        "Name": "Tomas och Charlottas Matrum",
+        "Description": "Exklusiv restaurang i Kalmar slotts lokaler.",
+        "Street": "Kalmar slott",
+        "Zip": "",
+        "City": "Kalmar",
+        "Tel": "0480-408140",
+        "Image": {
+          "src": "http://www.allakartor.se/venue_images_100/481134_77686223.jpg",
+          "alt": "Bilder från Tomas och Charlottas Matrum",
+          "href": "http://www.restaurangkartan.se/0481134/images/",
+          "text": ""
+        }
+      }
+    ],
+    "collection3": [
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Tomasb/",
+          "text": "Tomasb"
+        },
+        "ReviewTest": "Exklusiv restaurang i Kalmars slott.Maten och servicen är bland det bästa man kan uppleva..",
+        "ReviewDate": "2015-01-10 kl. 03:49",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "0",
+        "ReviewDislike": "0"
+      }
+    ]
+  }
+}, {
+  "name": "Resturangkartan Resturant",
+  "count": 2,
+  "frequency": "Manual Crawl",
+  "version": 19,
+  "newdata": true,
+  "lastrunstatus": "success",
+  "lastsuccess": "Sat Feb 14 2015 13:07:29 GMT+0000 (UTC)",
+  "thisversionstatus": "success",
+  "thisversionrun": "Sat Feb 14 2015 13:07:22 GMT+0000 (UTC)",
+  "url": "http://www.restaurangkartan.se/0472237/OReillys_Irish_Pub_Kalmar",
+  "results": {
+    "collection1": [
+      {
+        "Name": "OReillys Irish Pub Kalmar",
+        "Description": "O Reillys is an authentic Irish Pub located in the city of Kalmar in the south of Sweden just a few minutes walk from the City Centre. A regular haunt for locals and visitors alike looking for a real taste of Irish Culture.O Reillys offers up live traditional Irish music, good food and great fun with a warm smile.\nThe rustic interior belies its city centre location and the welcome is as warm as Kerry rain and the Black Stuff never ceases to flow.",
+        "Street": "Larmgatan 6",
+        "Zip": "39232",
+        "City": "Kalmar",
+        "Tel": "0480-23040",
+        "Image": {
+          "src": "http://www.allakartor.se/venue_images_100/472237_119729674849535.jpg",
+          "alt": "Bilder från OReillys Irish Pub Kalmar",
+          "href": "http://www.restaurangkartan.se/0472237/images/",
+          "text": ""
+        }
+      }
+    ],
+    "collection3": [
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Anne-Marie_Bengtsson/",
+          "text": "Anne-Marie Bengtsson"
+        },
+        "ReviewTest": "Trevlig personal och en bra stämning, duktiga musiker.",
+        "ReviewDate": "2014-08-31 kl. 18:40",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "0",
+        "ReviewDislike": "0"
+      }
+    ]
+  }
+}, {
+  "name": "Resturangkartan Resturant",
+  "count": 2,
+  "frequency": "Manual Crawl",
+  "version": 20,
+  "newdata": true,
+  "lastrunstatus": "success",
+  "lastsuccess": "Sat Feb 14 2015 13:07:38 GMT+0000 (UTC)",
+  "thisversionstatus": "success",
+  "thisversionrun": "Sat Feb 14 2015 13:07:31 GMT+0000 (UTC)",
+  "url": "http://www.restaurangkartan.se/0470003/Koppalas_Restaurang",
+  "results": {
+    "collection1": [
+      {
+        "Name": "Koppalas Restaurang",
+        "Description": "Serverar hemlagad svensk och thailändsk husmanskost. Måndag-Fredag klockan 11-15.\nKoppalas ligger mellan Guldfågel Arena och Ikea.",
+        "Street": "Trångsundsvägen 20",
+        "Zip": "39356",
+        "City": "Kalmar",
+        "Tel": "0480-479696",
+        "Image": {
+          "src": "http://www.allakartor.se/venue_images_100/470003_353004698077795.jpg",
+          "alt": "Bilder från Koppalas Restaurang",
+          "href": "http://www.restaurangkartan.se/0470003/images/",
+          "text": ""
+        }
+      }
+    ],
+    "collection3": [
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se//",
+          "text": ""
+        },
+        "ReviewTest": "Bra och God Mat och Jättegod Sallads Buffé till bra priser.Två Thairätter och 2 svenska rätter att välja mellan.",
+        "ReviewDate": "2015-01-26 kl. 10:23",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "0",
+        "ReviewDislike": "0"
+      }
+    ]
+  }
+}, {
+  "name": "Resturangkartan Resturant",
+  "count": 2,
+  "frequency": "Manual Crawl",
+  "version": 21,
+  "newdata": true,
+  "lastrunstatus": "success",
+  "lastsuccess": "Sat Feb 14 2015 13:07:47 GMT+0000 (UTC)",
+  "thisversionstatus": "success",
+  "thisversionrun": "Sat Feb 14 2015 13:07:40 GMT+0000 (UTC)",
+  "url": "http://www.restaurangkartan.se/0400340/Bremersons",
+  "results": {
+    "collection1": [
+      {
+        "Name": "Bremersons",
+        "Description": "En restaurang i Kalmar.",
+        "Street": "Esplanaden 30",
+        "Zip": "39233",
+        "City": "Kalmar",
+        "Tel": "0480-325900",
+        "Image": {
+          "src": "http://www.allakartor.se/venue_images_100/400340_372195202845160.jpg",
+          "alt": "Bilder från Bremersons",
+          "href": "http://www.restaurangkartan.se/0400340/images/",
+          "text": ""
+        }
+      }
+    ],
+    "collection3": [
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Lovisa_N/",
+          "text": "Lovisa N"
+        },
+        "ReviewTest": "Mysigt ställe och jättegod mat. Rekommenderas varmt :-)",
+        "ReviewDate": "2012-04-02 kl. 05:44",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "1",
+        "ReviewDislike": "0"
+      }
+    ]
+  }
+}, {
+  "name": "Resturangkartan Resturant",
+  "count": 2,
+  "frequency": "Manual Crawl",
+  "version": 22,
+  "newdata": true,
+  "lastrunstatus": "success",
+  "lastsuccess": "Sat Feb 14 2015 13:07:56 GMT+0000 (UTC)",
+  "thisversionstatus": "success",
+  "thisversionrun": "Sat Feb 14 2015 13:07:49 GMT+0000 (UTC)",
+  "url": "http://www.restaurangkartan.se/0400252/Arontorpsfilialen",
+  "results": {
+    "collection1": [
+      {
+        "Name": "Arontorpsfilialen",
+        "Description": "Cafe Arontorpsfilialen ligger i köpcentret Giraffen i Kalmar. Serverar öländska kroppkakor.",
+        "Street": "Verkstadsgatan 6, Giraffen Kalmar",
+        "Zip": "39239",
+        "City": "Kalmar",
+        "Tel": "0480-422380",
+        "Image": {
+          "src": "http://www.allakartor.se/venue_images_100/400252_30479802.jpg",
+          "alt": "Bilder från Arontorpsfilialen",
+          "href": "http://www.restaurangkartan.se/0400252/images/",
+          "text": ""
+        }
+      }
+    ],
+    "collection3": [
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/anitram/",
+          "text": "anitram"
+        },
+        "ReviewTest": "Kalmars bästa kroppkakor, välgjorda och välsmakande!! Mycket trevlig personal.",
+        "ReviewDate": "2012-09-26 kl. 10:25",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "0",
+        "ReviewDislike": "0"
+      }
+    ]
+  }
+}, {
+  "name": "Resturangkartan Resturant",
+  "count": 2,
+  "frequency": "Manual Crawl",
+  "version": 23,
+  "newdata": true,
+  "lastrunstatus": "success",
+  "lastsuccess": "Sat Feb 14 2015 13:08:06 GMT+0000 (UTC)",
+  "thisversionstatus": "success",
+  "thisversionrun": "Sat Feb 14 2015 13:07:58 GMT+0000 (UTC)",
+  "url": "http://www.restaurangkartan.se/0179945/Restaurang_Zegel",
+  "results": {
+    "collection1": [
+      {
+        "Name": "Restaurang Zegel",
+        "Description": "Restaurang Zegel ligger direkt vid kaj i Kalmar Gästhamn. Dagens lunch. Uteservering. Köket serverar dagens lunch vardagar, i form av husmanskost, pasta och sallader, men även matiga mackor och fika. Sommartid erbjuder restaurangen även à la carte-meny kvällstid. Uteservering som vetter mot gästhamnen.",
+        "Street": "Landgången 4",
+        "Zip": "39231",
+        "City": "Kalmar",
+        "Tel": "0480-497683",
+        "Image": {
+          "src": "http://www.allakartor.se/venue_images_100/179945_10150266562369954.jpg",
+          "alt": "Bilder från Restaurang Zegel",
+          "href": "http://www.restaurangkartan.se/0179945/images/",
+          "text": ""
+        }
+      }
+    ],
+    "collection3": [
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Arne_Åkerhagen/",
+          "text": "Arne Åkerhagen"
+        },
+        "ReviewTest": "En liten trevlig restaurang, med god husmanskost. Trevlig personal, moderata priser och en fantastisk utsikt över gästhamnen med massor av båtar.Arne Åkerhagen",
+        "ReviewDate": "2011-08-15 kl. 09:17",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "0",
+        "ReviewDislike": "0"
+      }
+    ]
+  }
+}, {
+  "name": "Resturangkartan Resturant",
+  "count": 2,
+  "frequency": "Manual Crawl",
+  "version": 24,
+  "newdata": true,
+  "lastrunstatus": "success",
+  "lastsuccess": "Sat Feb 14 2015 13:08:15 GMT+0000 (UTC)",
+  "thisversionstatus": "success",
+  "thisversionrun": "Sat Feb 14 2015 13:08:07 GMT+0000 (UTC)",
+  "url": "http://www.restaurangkartan.se/0400325/Hamnkrogen",
+  "results": {
+    "collection1": [
+      {
+        "Name": "Hamnkrogen",
+        "Description": "Krogen är flytande och ligger förtöjd vid kaj.",
+        "Street": "Skeppsbrogatan 30",
+        "Zip": "39231",
+        "City": "Kalmar",
+        "Tel": "0480-411020",
+        "Image": {
+          "src": "http://www.allakartor.se/graphics/no_image_100.gif",
+          "alt": "Bilder från Hamnkrogen",
+          "href": "http://www.restaurangkartan.se/0400325/images/",
+          "text": ""
+        }
+      }
+    ],
+    "collection3": [
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Folke_Lundberg/",
+          "text": "Folke Lundberg"
+        },
+        "ReviewTest": "Bra mat, mycket trevlig personal, fantastiskt läge",
+        "ReviewDate": "2014-05-18 kl. 18:55",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "0",
+        "ReviewDislike": "0"
+      }
+    ]
+  }
+}, {
+  "name": "Resturangkartan Resturant",
+  "count": 2,
+  "frequency": "Manual Crawl",
+  "version": 25,
+  "newdata": true,
+  "lastrunstatus": "success",
+  "lastsuccess": "Sat Feb 14 2015 13:08:24 GMT+0000 (UTC)",
+  "thisversionstatus": "success",
+  "thisversionrun": "Sat Feb 14 2015 13:08:16 GMT+0000 (UTC)",
+  "url": "http://www.restaurangkartan.se/0470300/Restaurang_Harrys_Kalmar",
+  "results": {
+    "collection1": [
+      {
+        "Name": "Restaurang Harrys Kalmar",
+        "Description": "Sportpub som serverar allt ifrån klassiker till 3-rätters-menyer. Även en gedigen dryckesmeny bestående av kaffe, öl, vin, cognac, whisky, bourbon, likörer, drinkar mm.",
+        "Street": "Norra Långgatan 7",
+        "Zip": "39232",
+        "City": "Kalmar",
+        "Tel": "0480424230",
+        "Image": {
+          "src": "http://www.allakartor.se/graphics/no_image_100.gif",
+          "alt": "Bilder från Restaurang Harrys Kalmar",
+          "href": "http://www.restaurangkartan.se/0470300/images/",
+          "text": ""
+        }
+      }
+    ],
+    "collection3": [
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/sofia_karlsson2013/",
+          "text": "sofia karlsson2013"
+        },
+        "ReviewTest": "Kalmar bästa bartenders jobbar här. Goda mojitos och frozen daiquri,",
+        "ReviewDate": "2012-12-30 kl. 14:48",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "0",
+        "ReviewDislike": "0"
+      }
+    ]
+  }
+}, {
+  "name": "Resturangkartan Resturant",
+  "count": 2,
+  "frequency": "Manual Crawl",
+  "version": 26,
+  "newdata": true,
+  "lastrunstatus": "success",
+  "lastsuccess": "Sat Feb 14 2015 13:08:33 GMT+0000 (UTC)",
+  "thisversionstatus": "success",
+  "thisversionrun": "Sat Feb 14 2015 13:08:26 GMT+0000 (UTC)",
+  "url": "http://www.restaurangkartan.se/05707/Restaurang_K%25llaren_Kronan",
+  "results": {
+    "collection1": [
+      {
+        "Name": "Restaurang Källaren Kronan",
+        "Description": "Detta är en restaurang som ligger på Ölandsgatan 7 i Kalmar. Restaurangen är inredd i sju källarvalv under Sahlsteenska huset.",
+        "Street": "Ölandsgatan 7",
+        "Zip": "",
+        "City": "Kalmar",
+        "Tel": "0480-411400",
+        "Image": {
+          "src": "http://www.allakartor.se/graphics/no_image_100.gif",
+          "alt": "Bilder från Restaurang Källaren Kronan",
+          "href": "http://www.restaurangkartan.se/05707/images/",
+          "text": ""
+        }
+      }
+    ],
+    "collection3": [
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Peter_Rydén/",
+          "text": "Peter Rydén"
+        },
+        "ReviewTest": "Maten är ypperlig med stilla musik från högtalare som rundar av matens och ger den ett djup. Personalen är serviceinriktad och kan gärna ändra på mindre detaljer i den uppskrivna menyn så att det passar även mig som kan vara lite kräsen ibland. De har alltid varit trevliga och maten har varit god - det är dock tråkigt att de slutat med de populära vardagsluncherna.Priset är i nov-10 159 kronor för en rätt, 209 kronor för 2 rätter och 259 kronor för tre rätter, men de har förutom månadsmenyn även à la carte.",
+        "ReviewDate": "2010-11-03 kl. 21:13",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "0",
+        "ReviewDislike": "1"
+      }
+    ]
+  }
+}, {
+  "name": "Resturangkartan Resturant",
+  "count": 2,
+  "frequency": "Manual Crawl",
+  "version": 27,
+  "newdata": true,
+  "lastrunstatus": "success",
+  "lastsuccess": "Sat Feb 14 2015 13:08:53 GMT+0000 (UTC)",
+  "thisversionstatus": "success",
+  "thisversionrun": "Sat Feb 14 2015 13:08:36 GMT+0000 (UTC)",
+  "url": "http://www.restaurangkartan.se/0476055/Restaurang_Manana_Manana",
+  "results": {
+    "collection1": [
+      {
+        "Name": "Restaurang Manana Manana",
+        "Description": "Det här är en restaurang i Kalmar som serverar tapas och meze från det spanska och libanesiska köket.",
+        "Street": "Larm Gatan",
+        "Zip": "",
+        "City": "Kalmar",
+        "Tel": "048025005",
+        "Image": {
+          "src": "http://www.allakartor.se/graphics/no_image_100.gif",
+          "alt": "Bilder från Restaurang Manana Manana",
+          "href": "http://www.restaurangkartan.se/0476055/images/",
+          "text": ""
+        }
+      }
+    ],
+    "collection3": [
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Danjal/",
+          "text": "Danjal"
+        },
+        "ReviewTest": "Grymt ställe! God mat! Rekommenderas starkt för alla.",
+        "ReviewDate": "2014-12-22 kl. 00:53",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "0",
+        "ReviewDislike": "0"
+      }
+    ]
+  }
+}, {
+  "name": "Resturangkartan Resturant",
+  "count": 11,
+  "frequency": "Manual Crawl",
+  "version": 28,
+  "newdata": true,
+  "lastrunstatus": "success",
+  "lastsuccess": "Sat Feb 14 2015 13:09:03 GMT+0000 (UTC)",
+  "thisversionstatus": "success",
+  "thisversionrun": "Sat Feb 14 2015 13:08:55 GMT+0000 (UTC)",
+  "url": "http://www.restaurangkartan.se/06479/Restaurang_Athena",
+  "results": {
+    "collection1": [
+      {
+        "Name": "Restaurang Athena",
+        "Description": "Detta är en restaurang som ligger på Norra Långgatan 8 i Kalmar.",
+        "Street": "Norra Långgatan 8",
+        "Zip": "39232",
+        "City": "Kalmar",
+        "Tel": "0480-28088",
+        "Image": {
+          "src": "http://www.allakartor.se/venue_images_100/6479_33978412.jpg",
+          "alt": "Bilder från Restaurang Athena",
+          "href": "http://www.restaurangkartan.se/06479/images/",
+          "text": ""
+        }
+      }
+    ],
+    "collection3": [
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Halva_Malva/",
+          "text": "Halva Malva"
+        },
+        "ReviewTest": "Kladdig potatis! Torr lax och en klick majonäs istället för Hollandaise sås! Ät någon annan stans.",
+        "ReviewDate": "2014-07-19 kl. 13:18",
+        "ReviewRate": "Betyg: 1",
+        "ReviewLike": "0",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Tommyhio/",
+          "text": "Tommyhio"
+        },
+        "ReviewTest": "Billigt men ändå inte prisvärt. Laxen var torr och smaklös, pastan med biff smakade enbart tomatpuré lövbiffen torr och bränd med potatis som legat färdig för länge.. Grannens pizzor såg dock goda ut. Hit går jag inte igen!",
+        "ReviewDate": "2014-07-17 kl. 16:41",
+        "ReviewRate": "Betyg: 1",
+        "ReviewLike": "0",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Anna_Maria_Karolina_Sjödin/",
+          "text": "Anna Maria Karolina Sjödin"
+        },
+        "ReviewTest": "Fantastisk mat! Man vill komma tillbaka hela tiden! Fantadtisk glasscoupe!",
+        "ReviewDate": "2014-07-01 kl. 14:35",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "0",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/M6FRJO/",
+          "text": "M6FRJO"
+        },
+        "ReviewTest": "Här märks det att man får vad man betalar för.Ville finna ett billigare alternativ till Stekhuset i hamnen, och det gjorde jag här. Tyvärr märktes det billigare priset även på matens kvalite som var bra mycket sämre, inte alls värt pengarna.Äter hellre på Mc Donalds.",
+        "ReviewDate": "2013-05-23 kl. 17:27",
+        "ReviewRate": "Betyg: 2",
+        "ReviewLike": "1",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Steken/",
+          "text": "Steken"
+        },
+        "ReviewTest": "Omysigt, trångt på lunchen. Skaplig mat. Medioker salladsbuffé.",
+        "ReviewDate": "2012-09-06 kl. 08:38",
+        "ReviewRate": "Betyg: 3",
+        "ReviewLike": "1",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Nickan74/",
+          "text": "Nickan74"
+        },
+        "ReviewTest": "Bra priser. Suverän personal. Åt en prisvärd lunch med familjen och dottern fick allt upplagt på helt rätt sätt. Värd ett besök!",
+        "ReviewDate": "2012-07-30 kl. 21:04",
+        "ReviewRate": "Betyg: 4",
+        "ReviewLike": "2",
+        "ReviewDislike": "2"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Annica_Appelberg/",
+          "text": "Annica Appelberg"
+        },
+        "ReviewTest": "Väldigt human priser! Finns mycket att välja mellan, pizza, kött, fisk, pasta, sallad, kebab mm Barnvänligt!",
+        "ReviewDate": "2011-09-26 kl. 18:27",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "1",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Mady99/",
+          "text": "Mady99"
+        },
+        "ReviewTest": "Åt här för en vecka sedan, grekiskt tallrik med bla moussaka, kycklingspett och keftedes. Så besviken!! Moussaka med massa potatis i, kycklingen var slajmig, och keftedesen mycket torr! Inga speciella grekiska kryddor. Hafsigt upplagt och inte med ´kärlek´. Mycket bättre mat förr så jag var grymt besviken. Trevlig personal därför betyg 2.",
+        "ReviewDate": "2011-07-19 kl. 19:01",
+        "ReviewRate": "Betyg: 2",
+        "ReviewLike": "0",
+        "ReviewDislike": "2"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Jocke_Larsson/",
+          "text": "Jocke Larsson"
+        },
+        "ReviewTest": "Mycket mat på tallriken. Tyvärr inte för hög mysfaktor.",
+        "ReviewDate": "2011-02-05 kl. 22:55",
+        "ReviewRate": "Betyg: 3",
+        "ReviewLike": "0",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Församlingsbo/",
+          "text": "Församlingsbo"
+        },
+        "ReviewTest": "GOD mat, trevlig personal! Skön att sitta ute i solen, på kvällen, i somras!",
+        "ReviewDate": "2010-11-22 kl. 10:44",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "0",
+        "ReviewDislike": "0"
+      }
+    ]
+  }
+}, {
+  "name": "Resturangkartan Resturant",
+  "count": 11,
+  "frequency": "Manual Crawl",
+  "version": 29,
+  "newdata": true,
+  "lastrunstatus": "success",
+  "lastsuccess": "Sat Feb 14 2015 13:09:14 GMT+0000 (UTC)",
+  "thisversionstatus": "success",
+  "thisversionrun": "Sat Feb 14 2015 13:09:06 GMT+0000 (UTC)",
+  "url": "http://www.restaurangkartan.se/08205/Restaurang_Larmgatan_10",
+  "results": {
+    "collection1": [
+      {
+        "Name": "Restaurang Larmgatan 10",
+        "Description": "Detta är en restaurang som ligger på Södra Långgatan 6 i Kalmar.",
+        "Street": "Södra Långgatan 6",
+        "Zip": "39232",
+        "City": "Kalmar",
+        "Tel": "0480-86525",
+        "Image": {
+          "src": "http://www.allakartor.se/venue_images_100/8205_11277163.jpg",
+          "alt": "Bilder från Restaurang Larmgatan 10",
+          "href": "http://www.restaurangkartan.se/08205/images/",
+          "text": ""
+        }
+      }
+    ],
+    "collection3": [
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/ann-Charlotte_g_johansson/",
+          "text": "ann-Charlotte g johansson"
+        },
+        "ReviewTest": "Bäst är helt klart deras JÄRNPLATTOR..Åker 15 mil o det är det värt...",
+        "ReviewDate": "2014-06-27 kl. 09:49",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "1",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Andersipata/",
+          "text": "Andersipata"
+        },
+        "ReviewTest": "Trevlig restaurang, med god mat, fint serverat och trevligt bemötande. Gör ett besök där då och då och har under flera år inte blivit besviken.Anders",
+        "ReviewDate": "2014-01-17 kl. 16:43",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "0",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Fru_Fransson/",
+          "text": "Fru Fransson"
+        },
+        "ReviewTest": "En favorit i Kalmar! Trevlig service och maten oftast mycket god. Ett undantag däremot vid mitt senaste besök när fläskfilén jag fick var torr och överstekt. Bäst är deras järnplattor med potatisgratäng till.",
+        "ReviewDate": "2013-07-27 kl. 17:32",
+        "ReviewRate": "Betyg: 4",
+        "ReviewLike": "0",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Ulrika_KL/",
+          "text": "Ulrika KL"
+        },
+        "ReviewTest": "vi går hit väldigt ofta och är alltid jättenöjda. supegullig perosnal och jättegod mat\nrekomenderas!",
+        "ReviewDate": "2012-09-26 kl. 07:46",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "0",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/JanneK/",
+          "text": "JanneK"
+        },
+        "ReviewTest": "Kommer efter ett fantastiskt besök att bli stammisar. Hur gott som hällst och undebara servitriser. Synd bara att vi blev så mätta efter planksteken att vi inte orkade prova deserten.",
+        "ReviewDate": "2012-09-18 kl. 07:37",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "2",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Lars12345/",
+          "text": "Lars12345"
+        },
+        "ReviewTest": "Vi gick för att fira födelsedag 24/7-12. Tyvärr blev besöket ett totalt misslyckande. Bord var beställt men upptaget. Fel maträtt serverades - ej den som var beställt - 2 fel av 3. Maten var usel. Fisken tidigare frusen och helt smaklös och köttet segt och oaptitligt. Vinet var bra men det hade kocken inte varit i närheten av. Framförde artigt kritiken men fick inte ens svar. Kass. Gå inte dit. Lars",
+        "ReviewDate": "2012-07-24 kl. 20:00",
+        "ReviewRate": "Betyg: 1",
+        "ReviewLike": "1",
+        "ReviewDislike": "2"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Annelott/",
+          "text": "Annelott"
+        },
+        "ReviewTest": "Efter att ha firat sonens 22 års dag d.4/7 har vi bara lovord för Ping och hennes personal, trevligt bemötande snabb service. Även för mej som är GBP så gick det att ordna till reducerat pris.Vi kommer självklart att besöka Larmgatan 10 igen .",
+        "ReviewDate": "2012-07-05 kl. 06:03",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "0",
+        "ReviewDislike": "1"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Maaliin/",
+          "text": "Maaliin"
+        },
+        "ReviewTest": "Riktigt dålig service! Hade beställt några veckor i förväg exakt vad vi skulle ha o äta men ändå fick vi vänta 45min på förrätt o 45min på huvudrätt! De ska man inte behöva göra. O vi hade även en i sällskapet som skulle ha specialkost (även där beställt 3veckor i förväg) men ändå kunde dom inte fixa fram något??? Den enda förklaring vi fick var att dom inte gör en special rätt till EN person för att dom är en så stor restaurang? Hmm konstigt tycker jag.. Ska man inte kunna äta där då ifall man inte tål vissa saker? Nä detta är ingen restaurang som jag rekommenderar! Sååå besviken.....",
+        "ReviewDate": "2012-05-20 kl. 18:19",
+        "ReviewRate": "Betyg: 1",
+        "ReviewLike": "1",
+        "ReviewDislike": "1"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Helen_Nielsen/",
+          "text": "Helen Nielsen"
+        },
+        "ReviewTest": "Maten var jättegod, dock inte deserten.Vi hade en i sällskapet som hade specialkost och vi beställt tre veckor innan, detta kunde de inte ordna fram till vederbörande.Tyvärr hade de inte så trevligt bemötande heller, så blir betyget dåligt.",
+        "ReviewDate": "2012-05-20 kl. 16:56",
+        "ReviewRate": "Betyg: 1",
+        "ReviewLike": "1",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Carlo_P/",
+          "text": "Carlo P"
+        },
+        "ReviewTest": "Bästa stället i stan! Jag går hit med jobbet och privat.",
+        "ReviewDate": "2012-02-22 kl. 19:48",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "0",
+        "ReviewDislike": "0"
+      }
+    ]
+  }
+}, {
+  "name": "Resturangkartan Resturant",
+  "count": 5,
+  "frequency": "Manual Crawl",
+  "version": 30,
+  "newdata": true,
+  "lastrunstatus": "success",
+  "lastsuccess": "Sat Feb 14 2015 13:09:55 GMT+0000 (UTC)",
+  "thisversionstatus": "success",
+  "thisversionrun": "Sat Feb 14 2015 13:09:48 GMT+0000 (UTC)",
+  "url": "http://www.restaurangkartan.se/018527/Calmar_Hamnkrog",
+  "results": {
+    "collection1": [
+      {
+        "Name": "Venezia Pizzeria",
+        "Description": "Detta är en pizza-restaurang som ligger på Esplanaden 26 i Kalmar.",
+        "Street": "Esplanaden 26",
+        "Zip": "39233",
+        "City": "Kalmar",
+        "Tel": "0480-29880",
+        "Image": {
+          "src": "http://www.allakartor.se/venue_images_100/14137_794727837257117.jpg",
+          "alt": "Bilder från Venezia Pizzeria",
+          "href": "http://www.restaurangkartan.se/014137/images/",
+          "text": ""
+        }
+      }
+    ],
+    "collection3": [
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Loveost/",
+          "text": "Loveost"
+        },
+        "ReviewTest": "Mycket goda pizzor! Trevlig personal och bästa öppettider under helger i Kalmar! Rekommenderas varmt!",
+        "ReviewDate": "2014-11-01 kl. 17:09",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "2",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/StefanP/",
+          "text": "StefanP"
+        },
+        "ReviewTest": "I kategorin ´försvenskad pizza´ så skulle betyget bli en fyra. Om man är lite mer konservativ och jämför med ´italiensk pizza´ så blir det en tvåa. Lokalen duger väl för hämtpizza men är direkt deprimerande om man äter på plats.",
+        "ReviewDate": "2013-10-07 kl. 12:07",
+        "ReviewRate": "Betyg: 3",
+        "ReviewLike": "0",
+        "ReviewDislike": "1"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/jffffjkk/",
+          "text": "jffffjkk"
+        },
+        "ReviewTest": "Sjukt goda pizzor o mat för övrigt! Pastan e grym!",
+        "ReviewDate": "2012-07-13 kl. 17:52",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "1",
+        "ReviewDislike": "1"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/pennybrother/",
+          "text": "pennybrother"
+        },
+        "ReviewTest": "Den bästa pizzerian med de godaste pizzorna i Kalmar. Pröva Kantarell eller Mexicana. Även jättegoda sallader och kebab. Bra priser och jättegod mat ett stenkast från centrala Kalmar. Bästa betyg!! Har säkerligen köpt pizza här ett 50-tal gånger och aldrig blivit besviken.",
+        "ReviewDate": "2012-01-07 kl. 17:21",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "3",
+        "ReviewDislike": "0"
+      }
+    ]
+  }
+}, {
+  "name": "Resturangkartan Resturant",
+  "count": 4,
+  "frequency": "Manual Crawl",
+  "version": 31,
+  "newdata": true,
+  "lastrunstatus": "success",
+  "lastsuccess": "Sat Feb 14 2015 13:10:04 GMT+0000 (UTC)",
+  "thisversionstatus": "success",
+  "thisversionrun": "Sat Feb 14 2015 13:09:57 GMT+0000 (UTC)",
+  "url": "http://www.restaurangkartan.se/01198/Cafe_Lotsutkiken",
+  "results": {
+    "collection1": [
+      {
+        "Name": "Café Lotsutkiken",
+        "Description": "Café och enkel/billig matservering för hamnarbetare och övriga. Beläget precis vid vattnet och kan vid bra väder erbjuda behaglig utsikt. Huset har en gång varit lotsstation, därav namnet. Inredningen är gammal och lite sliten och möblemanget är inte direkt Stureplan-trendigt. Häftigt läge vid Kalmarsund.",
+        "Street": "Tjärhovsgatan 8",
+        "Zip": "39231",
+        "City": "Kalmar",
+        "Tel": "0480-18996",
+        "Image": {
+          "src": "http://www.allakartor.se/venue_images_100/1198_76794055.jpg",
+          "alt": "Bilder från Café Lotsutkiken",
+          "href": "http://www.restaurangkartan.se/01198/images/",
+          "text": ""
+        }
+      }
+    ],
+    "collection3": [
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Raggarn/",
+          "text": "Raggarn"
+        },
+        "ReviewTest": "Deras rejäla Ägg & Biff mackor är min Favorit .Riktigt Toppen Goda.Tips :Jag brukar åka och hämta flera mackor samtidigt. Ett Bra Tips är då att i förväg ringa och beställa , så är det färdigt när du kommer och hämtar dom.",
+        "ReviewDate": "2012-03-19 kl. 13:07",
+        "ReviewRate": "Betyg: 4",
+        "ReviewLike": "0",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/zarischka/",
+          "text": "zarischka"
+        },
+        "ReviewTest": "Underbart mysigt fik/servering med härlig utsikt, goda mackor och bra priser! Det enda lilla minuset är de aningen knepiga öppettiderna. I övrigt rekommenderas det varmt!",
+        "ReviewDate": "2011-11-04 kl. 14:56",
+        "ReviewRate": "Betyg: 4",
+        "ReviewLike": "0",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Annica_Appelberg/",
+          "text": "Annica Appelberg"
+        },
+        "ReviewTest": "Sååå stora o goda mackor i många olika variationer! Billigt o fin utsikt :)",
+        "ReviewDate": "2011-09-26 kl. 18:37",
+        "ReviewRate": "Betyg: 4",
+        "ReviewLike": "0",
+        "ReviewDislike": "0"
+      }
+    ]
+  }
+}, {
+  "name": "Resturangkartan Resturant",
+  "count": 7,
+  "frequency": "Manual Crawl",
+  "version": 32,
+  "newdata": true,
+  "lastrunstatus": "success",
+  "lastsuccess": "Sat Feb 14 2015 13:10:14 GMT+0000 (UTC)",
+  "thisversionstatus": "success",
+  "thisversionrun": "Sat Feb 14 2015 13:10:06 GMT+0000 (UTC)",
+  "url": "http://www.restaurangkartan.se/0252396/Sushi_City",
+  "results": {
+    "collection1": [
+      {
+        "Name": "Sushi City",
+        "Description": "En sushirestaurang i Kalmar.",
+        "Street": "Storgatan 22",
+        "Zip": "39232",
+        "City": "Kalmar",
+        "Tel": "0480-10026",
+        "Image": {
+          "src": "http://www.allakartor.se/venue_images_100/252396_48874691.jpg",
+          "alt": "Bilder från Sushi City",
+          "href": "http://www.restaurangkartan.se/0252396/images/",
+          "text": ""
+        }
+      }
+    ],
+    "collection3": [
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Klara_Hansson/",
+          "text": "Klara Hansson"
+        },
+        "ReviewTest": "Hyfsat fräscht men 110:- för yaku tori, mediokra kycklingspett med smaklös isbergssalad tycker jag inte är en prisvärd lunch...",
+        "ReviewDate": "2013-01-31 kl. 11:08",
+        "ReviewRate": "Betyg: 2",
+        "ReviewLike": "0",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Lobben/",
+          "text": "Lobben"
+        },
+        "ReviewTest": "Samma som Kama sushi i Kalmar, underbart ställe som nu har betydligt mera plats!",
+        "ReviewDate": "2012-12-28 kl. 09:41",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "1",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Muffintoppar/",
+          "text": "Muffintoppar"
+        },
+        "ReviewTest": "Bra och mycket prisvärda lunchalternativ på vardagarna. Det går snabbt att få sin mat, dock är det ofta fullsatt under lunchtid så ett tips är att gå dit efter 13.30 om man har möjlighet. Fräsch sushi om än lite ojämn kvalité och bitar i största laget!",
+        "ReviewDate": "2012-07-05 kl. 16:34",
+        "ReviewRate": "Betyg: 4",
+        "ReviewLike": "1",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Anna_F/",
+          "text": "Anna F"
+        },
+        "ReviewTest": "Här är det riktigt goda veg-alternativ :) Personalen här inne är också supertrevlig och väldigt tillmötesgående. Snyggt ställe dessutom!",
+        "ReviewDate": "2011-11-23 kl. 09:28",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "0",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Peter_R/",
+          "text": "Peter R"
+        },
+        "ReviewTest": "Samma sushi som på Kama men med lite varmrätter. Mycket bra kvalitet, har ätit både sushi och bento där och allt har varit lika gott!Kan rekommendera nr 1 (kockens val) som är en snabbresa till sushihimlen och deras bläckfisksallad som är ett perfekt tillbehör!Solklar femma både för kvaliteten och allt utöver! Personalen är duktig och trevlig samt priset är väldigt bra! Har ätit sushi i sthlm som kostat dubbelt så mkt men inte varit hälften så bra! (sen slipper man ju dessutom stå ut med dryga nollåttor runt omkring ;) )",
+        "ReviewDate": "2011-08-26 kl. 15:04",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "2",
+        "ReviewDislike": "6"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Mattias_A_Beltzelius/",
+          "text": "Mattias A Beltzelius"
+        },
+        "ReviewTest": "God missou soppa och en trevlig miljö. goda bitar!!",
+        "ReviewDate": "2011-05-22 kl. 11:27",
+        "ReviewRate": "Betyg: 4",
+        "ReviewLike": "3",
+        "ReviewDislike": "0"
+      }
+    ]
+  }
+}, {
+  "name": "Resturangkartan Resturant",
+  "count": 4,
+  "frequency": "Manual Crawl",
+  "version": 33,
+  "newdata": true,
+  "lastrunstatus": "success",
+  "lastsuccess": "Sat Feb 14 2015 13:10:24 GMT+0000 (UTC)",
+  "thisversionstatus": "success",
+  "thisversionrun": "Sat Feb 14 2015 13:10:16 GMT+0000 (UTC)",
+  "url": "http://www.restaurangkartan.se/0179214/Subway",
+  "results": {
+    "collection1": [
+      {
+        "Name": "Subway",
+        "Description": "Restaurang som ingår i kedjan Subway.",
+        "Street": "Storgatan 11",
+        "Zip": "39232",
+        "City": "Kalmar",
+        "Tel": "0480-69950",
+        "Image": {
+          "src": "http://www.allakartor.se/venue_images_100/179214_165055156853094.jpg",
+          "alt": "Bilder från Subway",
+          "href": "http://www.restaurangkartan.se/0179214/images/",
+          "text": ""
+        }
+      }
+    ],
+    "collection3": [
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Raggarn/",
+          "text": "Raggarn"
+        },
+        "ReviewTest": "Vet ingen som gör godare , färskare Baguetter än SUBWAY Tänk friheten att stjälv få bestämma vad man vill ha på. Ni hittar deras meny på :subway.seDet finns även dagens ´SUB´ till billigare pris.",
+        "ReviewDate": "2012-03-19 kl. 13:33",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "0",
+        "ReviewDislike": "1"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/David_Pettersson/",
+          "text": "David Pettersson"
+        },
+        "ReviewTest": "Mkt trevlig personal och goda mackor som vanligt på Subway!",
+        "ReviewDate": "2010-11-22 kl. 10:14",
+        "ReviewRate": "Betyg: 4",
+        "ReviewLike": "0",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Lotta_i_Kalmar/",
+          "text": "Lotta i Kalmar"
+        },
+        "ReviewTest": "Subway är ju ett koncept så man känner igen sig. Viss personal verkar lite ovan ännu, restaurangen är ganska nyöppnad. Liten uteservering där vi blev tvugna att sitta men det var skugga lyckligtvis, det var jättevarmt i lokalen.",
+        "ReviewDate": "2010-08-05 kl. 20:52",
+        "ReviewRate": "Betyg: 3",
+        "ReviewLike": "1",
+        "ReviewDislike": "0"
+      }
+    ]
+  }
+}, {
+  "name": "Resturangkartan Resturant",
+  "count": 4,
+  "frequency": "Manual Crawl",
+  "version": 33,
+  "newdata": true,
+  "lastrunstatus": "success",
+  "lastsuccess": "Sat Feb 14 2015 13:10:24 GMT+0000 (UTC)",
+  "thisversionstatus": "success",
+  "thisversionrun": "Sat Feb 14 2015 13:10:16 GMT+0000 (UTC)",
+  "results": {
+    "collection1": [
+      {
+        "Name": "Subway",
+        "Description": "Restaurang som ingår i kedjan Subway.",
+        "Street": "Storgatan 11",
+        "Zip": "39232",
+        "City": "Kalmar",
+        "Tel": "0480-69950",
+        "Image": {
+          "src": "http://www.allakartor.se/venue_images_100/179214_165055156853094.jpg",
+          "alt": "Bilder från Subway",
+          "href": "http://www.restaurangkartan.se/0179214/images/",
+          "text": ""
+        }
+      }
+    ],
+    "collection3": [
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Raggarn/",
+          "text": "Raggarn"
+        },
+        "ReviewTest": "Vet ingen som gör godare , färskare Baguetter än SUBWAY Tänk friheten att stjälv få bestämma vad man vill ha på. Ni hittar deras meny på :subway.seDet finns även dagens ´SUB´ till billigare pris.",
+        "ReviewDate": "2012-03-19 kl. 13:33",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "0",
+        "ReviewDislike": "1"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/David_Pettersson/",
+          "text": "David Pettersson"
+        },
+        "ReviewTest": "Mkt trevlig personal och goda mackor som vanligt på Subway!",
+        "ReviewDate": "2010-11-22 kl. 10:14",
+        "ReviewRate": "Betyg: 4",
+        "ReviewLike": "0",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Lotta_i_Kalmar/",
+          "text": "Lotta i Kalmar"
+        },
+        "ReviewTest": "Subway är ju ett koncept så man känner igen sig. Viss personal verkar lite ovan ännu, restaurangen är ganska nyöppnad. Liten uteservering där vi blev tvugna att sitta men det var skugga lyckligtvis, det var jättevarmt i lokalen.",
+        "ReviewDate": "2010-08-05 kl. 20:52",
+        "ReviewRate": "Betyg: 3",
+        "ReviewLike": "1",
+        "ReviewDislike": "0"
+      }
+    ]
+  }
+}, {
+  "name": "Resturangkartan Resturant",
+  "count": 4,
+  "frequency": "Manual Crawl",
+  "version": 34,
+  "newdata": true,
+  "lastrunstatus": "success",
+  "lastsuccess": "Sat Feb 14 2015 13:21:08 GMT+0000 (UTC)",
+  "thisversionstatus": "success",
+  "thisversionrun": "Sat Feb 14 2015 13:21:00 GMT+0000 (UTC)",
+  "results": {
+    "collection1": [
+      {
+        "Name": "Pizzabutiken Ängö",
+        "Description": "Detta är en pizza-restaurang som ligger på Bjelkegatan 11 i Kalmar.",
+        "Street": "Bjelkegatan 11",
+        "Zip": "",
+        "City": "Kalmar",
+        "Tel": "0480-88821",
+        "Image": {
+          "src": "http://www.allakartor.se/venue_images_100/14259_82601634.jpg",
+          "alt": "Bilder från Pizzabutiken Ängö",
+          "href": "http://www.restaurangkartan.se/014259/images/",
+          "text": ""
+        }
+      }
+    ],
+    "collection3": [
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Pizzakungendeluxe/",
+          "text": "Pizzakungendeluxe"
+        },
+        "ReviewTest": "Humana priser och pålitlig personal. Jag är återkommande gäst.",
+        "ReviewDate": "2014-01-25 kl. 15:02",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "0",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Rughz81/",
+          "text": "Rughz81"
+        },
+        "ReviewTest": "Helt okej! Lång väntetid, hyffs råvaror, god kebab och gyros!",
+        "ReviewDate": "2012-08-05 kl. 23:32",
+        "ReviewRate": "Betyg: 3",
+        "ReviewLike": "1",
+        "ReviewDislike": "3"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Jesper/",
+          "text": "Jesper"
+        },
+        "ReviewTest": "Bra pizzor med lagom tjock botten inga degklumpar eller torra bottnar. Trevligt bemötande och hyfsade priser. Sallad ingår.",
+        "ReviewDate": "2011-03-16 kl. 14:53",
+        "ReviewRate": "Betyg: 4",
+        "ReviewLike": "1",
+        "ReviewDislike": "1"
+      }
+    ]
+  }
+}, {
+  "name": "Resturangkartan Resturant",
+  "count": 4,
+  "frequency": "Manual Crawl",
+  "version": 34,
+  "newdata": true,
+  "lastrunstatus": "success",
+  "lastsuccess": "Sat Feb 14 2015 13:21:08 GMT+0000 (UTC)",
+  "thisversionstatus": "success",
+  "thisversionrun": "Sat Feb 14 2015 13:21:00 GMT+0000 (UTC)",
+  "results": {
+    "collection1": [
+      {
+        "Name": "Pizzabutiken Ängö",
+        "Description": "Detta är en pizza-restaurang som ligger på Bjelkegatan 11 i Kalmar.",
+        "Street": "Bjelkegatan 11",
+        "Zip": "",
+        "City": "Kalmar",
+        "Tel": "0480-88821",
+        "Image": {
+          "src": "http://www.allakartor.se/venue_images_100/14259_82601634.jpg",
+          "alt": "Bilder från Pizzabutiken Ängö",
+          "href": "http://www.restaurangkartan.se/014259/images/",
+          "text": ""
+        }
+      }
+    ],
+    "collection3": [
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Pizzakungendeluxe/",
+          "text": "Pizzakungendeluxe"
+        },
+        "ReviewTest": "Humana priser och pålitlig personal. Jag är återkommande gäst.",
+        "ReviewDate": "2014-01-25 kl. 15:02",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "0",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Rughz81/",
+          "text": "Rughz81"
+        },
+        "ReviewTest": "Helt okej! Lång väntetid, hyffs råvaror, god kebab och gyros!",
+        "ReviewDate": "2012-08-05 kl. 23:32",
+        "ReviewRate": "Betyg: 3",
+        "ReviewLike": "1",
+        "ReviewDislike": "3"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Jesper/",
+          "text": "Jesper"
+        },
+        "ReviewTest": "Bra pizzor med lagom tjock botten inga degklumpar eller torra bottnar. Trevligt bemötande och hyfsade priser. Sallad ingår.",
+        "ReviewDate": "2011-03-16 kl. 14:53",
+        "ReviewRate": "Betyg: 4",
+        "ReviewLike": "1",
+        "ReviewDislike": "1"
+      }
+    ]
+  }
+}, {
+  "name": "Resturangkartan Resturant",
+  "count": 4,
+  "frequency": "Manual Crawl",
+  "version": 35,
+  "newdata": true,
+  "lastrunstatus": "success",
+  "lastsuccess": "Sat Feb 14 2015 13:22:37 GMT+0000 (UTC)",
+  "thisversionstatus": "success",
+  "thisversionrun": "Sat Feb 14 2015 13:22:30 GMT+0000 (UTC)",
+  "url": "http://www.restaurangkartan.se/019100/McDonald%25s",
+  "results": {
+    "collection1": [
+      {
+        "Name": "McDonald´s",
+        "Description": "En McDonalds i Kalmar.",
+        "Street": "Skeppsbrogatan 12, Baronens köpcenter",
+        "Zip": "39231",
+        "City": "Kalmar",
+        "Tel": "0480-85516",
+        "Image": {
+          "src": "http://www.allakartor.se/graphics/no_image_100.gif",
+          "alt": "Bilder från McDonald´s",
+          "href": "http://www.restaurangkartan.se/019100/images/",
+          "text": ""
+        }
+      }
+    ],
+    "collection3": [
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/burgerking/",
+          "text": "burgerking"
+        },
+        "ReviewTest": "This is a great restaurant and very unique. I think that they have a good chance of making a successful chain out of this concept.",
+        "ReviewDate": "2010-09-24 kl. 19:51",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "1",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Rutger_Sprangdeg/",
+          "text": "Rutger Sprangdeg"
+        },
+        "ReviewTest": "Jättehärligt uteställe! Man betalar för bra mat och man får vad man betalar för, jättegod cheeseburgare! Mums",
+        "ReviewDate": "2010-04-23 kl. 09:47",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "1",
+        "ReviewDislike": "1"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Lotta_i_Kalmar/",
+          "text": "Lotta i Kalmar"
+        },
+        "ReviewTest": "Liten McDonald´s som blivit större. Ligger i Baronen köpcentrum. Passar bra med en hamburgare innan eller efter bion som ligger på ovanvåningen. Väldigt trångt i rusningstid. Maten är som man förväntar sig.",
+        "ReviewDate": "2010-02-07 kl. 20:04",
+        "ReviewRate": "Betyg: 3",
+        "ReviewLike": "1",
+        "ReviewDislike": "2"
+      }
+    ]
+  }
+}, {
+  "name": "Resturangkartan Resturant",
+  "count": 3,
+  "frequency": "Manual Crawl",
+  "version": 36,
+  "newdata": true,
+  "lastrunstatus": "success",
+  "lastsuccess": "Sat Feb 14 2015 13:22:47 GMT+0000 (UTC)",
+  "thisversionstatus": "success",
+  "thisversionrun": "Sat Feb 14 2015 13:22:39 GMT+0000 (UTC)",
+  "url": "http://www.restaurangkartan.se/0355787/Gr%25na_Stugan_i_Kalmar",
+  "results": {
+    "collection1": [
+      {
+        "Name": "Gröna Stugan i Kalmar",
+        "Description": "Gröna Stugan i Kalmar är en restaurang i fin miljö.\nBesök webbsida för öppettider.",
+        "Street": "Larmgatan 1",
+        "Zip": "39232",
+        "City": "Kalmar",
+        "Tel": "0480-15858",
+        "Image": {
+          "src": "http://www.allakartor.se/venue_images_100/355787_442777242438327.jpg",
+          "alt": "Bilder från Gröna Stugan i Kalmar",
+          "href": "http://www.restaurangkartan.se/0355787/images/",
+          "text": ""
+        }
+      }
+    ],
+    "collection3": [
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Tobbe71/",
+          "text": "Tobbe71"
+        },
+        "ReviewTest": "Bäst i Kalmar. Tyvärr brukar de ha en allmänt tråkig sommarmeny, men utanför turistsäsong äter man väldigt gott här.",
+        "ReviewDate": "2014-08-23 kl. 14:50",
+        "ReviewRate": "Betyg: 4",
+        "ReviewLike": "0",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Annica_Appelberg/",
+          "text": "Annica Appelberg"
+        },
+        "ReviewTest": "Väldigt trevligt ställe m kanongod mat! Lite smal meny...",
+        "ReviewDate": "2011-09-26 kl. 18:39",
+        "ReviewRate": "Betyg: 4",
+        "ReviewLike": "1",
+        "ReviewDislike": "0"
+      }
+    ]
+  }
+}, {
+  "name": "Resturangkartan Resturant",
+  "count": 9,
+  "frequency": "Manual Crawl",
+  "version": 37,
+  "newdata": true,
+  "lastrunstatus": "success",
+  "lastsuccess": "Sat Feb 14 2015 13:22:56 GMT+0000 (UTC)",
+  "thisversionstatus": "success",
+  "thisversionrun": "Sat Feb 14 2015 13:22:48 GMT+0000 (UTC)",
+  "url": "http://www.restaurangkartan.se/049835/Kallsk%25nken",
+  "results": {
+    "collection1": [
+      {
+        "Name": "Kallskänken",
+        "Description": "Ett trevligt fik och restaurang med mackor, sallader och smörgårdsbord. Har även gratis wifi för kunderna.",
+        "Street": "Esplanaden 33",
+        "Zip": "39234",
+        "City": "Kalmar",
+        "Tel": "0480-15360",
+        "Image": {
+          "src": "http://www.allakartor.se/venue_images_100/49835_100176350062496.jpg",
+          "alt": "Bilder från Kallskänken",
+          "href": "http://www.restaurangkartan.se/049835/images/",
+          "text": ""
+        }
+      }
+    ],
+    "collection3": [
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/MaVeKlr/",
+          "text": "MaVeKlr"
+        },
+        "ReviewTest": "Friterad kyckling var nuggets, besvikelse... Restaurangen är bullrigt, saknas ljudabsorbenter i taket...De ska nog göra det de är bra på => Mackor, sallader m.m.",
+        "ReviewDate": "2014-05-11 kl. 07:15",
+        "ReviewRate": "Betyg: 2",
+        "ReviewLike": "0",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/MatsJohansson/",
+          "text": "MatsJohansson"
+        },
+        "ReviewTest": "Tycker att det var trevlig miljö samt både lite annorlunda och god lunch mat. Nice!",
+        "ReviewDate": "2014-03-14 kl. 18:21",
+        "ReviewRate": "Betyg: 4",
+        "ReviewLike": "0",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/MerlaP/",
+          "text": "MerlaP"
+        },
+        "ReviewTest": "Ingen höjdare. Sådär pris, men sett till vad man får så är det ett rejält överpris. Och tyvärr är det inte gott heller.",
+        "ReviewDate": "2014-02-13 kl. 20:42",
+        "ReviewRate": "Betyg: 1",
+        "ReviewLike": "0",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Ellen_Samuelsson/",
+          "text": "Ellen Samuelsson"
+        },
+        "ReviewTest": "Superbehändigt och billigt. Goda mackor, sallader och pajer. En stort utbud som ofta uppdateras.",
+        "ReviewDate": "2011-08-19 kl. 21:05",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "0",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/David_Pettersson/",
+          "text": "David Pettersson"
+        },
+        "ReviewTest": "Oerhört god lunchmat! Känns nästan för bra för lunch! Snyggt upplagt, mkt god mat och mkt gott salladsbord. Testa en Dagens Husman på Kallskänken, det blir ni inte besvikna på!",
+        "ReviewDate": "2011-05-03 kl. 16:06",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "0",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Pourmoi/",
+          "text": "Pourmoi"
+        },
+        "ReviewTest": "tror att det är bra där, lite dyrt dock!",
+        "ReviewDate": "2010-09-19 kl. 09:47",
+        "ReviewRate": "Betyg: 3",
+        "ReviewLike": "0",
+        "ReviewDislike": "2"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Gert_Svensson/",
+          "text": "Gert Svensson"
+        },
+        "ReviewTest": "Här köpte jag riktigt goda mackor till ett frukostmöte med mina kunder",
+        "ReviewDate": "2010-02-04 kl. 13:21",
+        "ReviewRate": "Betyg: 3",
+        "ReviewLike": "0",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Camilla_O/",
+          "text": "Camilla O"
+        },
+        "ReviewTest": "Massor av goda mackor och sallader. Bästa smörgåstårtorna i stan.",
+        "ReviewDate": "2010-01-20 kl. 14:23",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "0",
+        "ReviewDislike": "0"
+      }
+    ]
+  }
+}, {
+  "name": "Resturangkartan Resturant",
+  "count": 4,
+  "frequency": "Manual Crawl",
+  "version": 38,
+  "newdata": true,
+  "lastrunstatus": "success",
+  "lastsuccess": "Sat Feb 14 2015 13:23:06 GMT+0000 (UTC)",
+  "thisversionstatus": "success",
+  "thisversionrun": "Sat Feb 14 2015 13:22:59 GMT+0000 (UTC)",
+  "url": "http://www.restaurangkartan.se/012018/Pizzeria_och_Grill_Berga_Centrum",
+  "results": {
+    "collection1": [
+      {
+        "Name": "Pizzeria och Grill Berga Centrum",
+        "Description": "Detta är en pizza-restaurang som ligger på Rimsmedsvägen 25 i Kalmar.",
+        "Street": "Rimsmedsvägen 25",
+        "Zip": "39352",
+        "City": "Kalmar",
+        "Tel": "0480-22544",
+        "Image": {
+          "src": "http://www.allakartor.se/graphics/no_image_100.gif",
+          "alt": "Bilder från Pizzeria och Grill Berga Centrum",
+          "href": "http://www.restaurangkartan.se/012018/images/",
+          "text": ""
+        }
+      }
+    ],
+    "collection3": [
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Bovman/",
+          "text": "Bovman"
+        },
+        "ReviewTest": "Jättegoda pizzor för att vara en liten kvarterspizzeria ett til plus hade varit om de hade haft en hemsida på nätet med meny och telefonnummer. Berga pizzeria, Ängö och Pizza Italia har de godaste pizzorna i Kalmar därefter pizzeria krysset i Lindsdal som har rollokant på sina pizzor fyllda med smält ost mkt gott.",
+        "ReviewDate": "2011-08-25 kl. 13:54",
+        "ReviewRate": "Betyg: 4",
+        "ReviewLike": "3",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/ostenn89/",
+          "text": "ostenn89"
+        },
+        "ReviewTest": "grym kebab om man inte kommer in på en dålig dag, då riskerar man brutal ´kebab-mage´",
+        "ReviewDate": "2010-01-24 kl. 20:26",
+        "ReviewRate": "Betyg: 3",
+        "ReviewLike": "1",
+        "ReviewDislike": "5"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Lotta_i_Kalmar/",
+          "text": "Lotta i Kalmar"
+        },
+        "ReviewTest": "Goda pizzor till ett bra pris. Liten servering, men de flesta hämtar ju sin. Har börjat med färska champinjoner på capricciosan, toppen!",
+        "ReviewDate": "2010-01-20 kl. 15:06",
+        "ReviewRate": "Betyg: 4",
+        "ReviewLike": "2",
+        "ReviewDislike": "4"
+      }
+    ]
+  }
+}, {
+  "name": "Resturangkartan Resturant",
+  "count": 7,
+  "frequency": "Manual Crawl",
+  "version": 39,
+  "newdata": true,
+  "lastrunstatus": "success",
+  "lastsuccess": "Sat Feb 14 2015 13:23:15 GMT+0000 (UTC)",
+  "thisversionstatus": "success",
+  "thisversionrun": "Sat Feb 14 2015 13:23:08 GMT+0000 (UTC)",
+  "url": "http://www.restaurangkartan.se/08843/Table_20",
+  "results": {
+    "collection1": [
+      {
+        "Name": "Table 20",
+        "Description": "Detta är en restaurang som ligger på Unionsgatan 20 i Kalmar.",
+        "Street": "Unionsgatan 20",
+        "Zip": "",
+        "City": "Kalmar",
+        "Tel": "0480-23536",
+        "Image": {
+          "src": "http://www.allakartor.se/graphics/no_image_100.gif",
+          "alt": "Bilder från Table 20",
+          "href": "http://www.restaurangkartan.se/08843/images/",
+          "text": ""
+        }
+      }
+    ],
+    "collection3": [
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Andreas_Hansson/",
+          "text": "Andreas Hansson"
+        },
+        "ReviewTest": "Vi var två par som va här lördagen 24 januari. Och vi va överens om att det va fantastiskt god mat. Klart det bästa vi har ätit i kalmar. Servicen var kanon. Blir garanterat många fler besök.",
+        "ReviewDate": "2015-01-25 kl. 11:34",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "0",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Engström/",
+          "text": "Engström"
+        },
+        "ReviewTest": "Beställde oxfilé medium rare fick en snett skuren bit där mer än hälften var Well done, kocken vägrade göra mig en ny. Sämsta jag varit med om .tom servitören så att jag hade rätt .",
+        "ReviewDate": "2014-02-07 kl. 20:36",
+        "ReviewRate": "Betyg: 1",
+        "ReviewLike": "0",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Sara_E/",
+          "text": "Sara E"
+        },
+        "ReviewTest": "God mat och trevlig personal. Bra meny med mycket att välja på.",
+        "ReviewDate": "2012-08-29 kl. 09:23",
+        "ReviewRate": "Betyg: 4",
+        "ReviewLike": "0",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Annica_Appelberg/",
+          "text": "Annica Appelberg"
+        },
+        "ReviewTest": "Bra mat o service, humana priser o trevlig meny! Dock inte så hög mysfaktor...",
+        "ReviewDate": "2011-09-26 kl. 18:34",
+        "ReviewRate": "Betyg: 4",
+        "ReviewLike": "0",
+        "ReviewDislike": "1"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/David_Pettersson/",
+          "text": "David Pettersson"
+        },
+        "ReviewTest": "Mkt prisvärt, bra och god mat och trevlig personal som erbjuder bra service! Tips är att beställa hem en planka som faktiskt levereras på en riktigt plankbit!",
+        "ReviewDate": "2010-11-22 kl. 10:13",
+        "ReviewRate": "Betyg: 4",
+        "ReviewLike": "0",
+        "ReviewDislike": "1"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Sussie_Fogelström/",
+          "text": "Sussie Fogelström"
+        },
+        "ReviewTest": "Väldigt lagom. God mat och mycket trevlig personal! Prisvärt och trevligt.",
+        "ReviewDate": "2010-10-11 kl. 15:26",
+        "ReviewRate": "Betyg: 3",
+        "ReviewLike": "0",
+        "ReviewDislike": "1"
+      }
+    ]
+  }
+}, {
+  "name": "Resturangkartan Resturant",
+  "count": 4,
+  "frequency": "Manual Crawl",
+  "version": 40,
+  "newdata": true,
+  "lastrunstatus": "success",
+  "lastsuccess": "Sat Feb 14 2015 13:23:26 GMT+0000 (UTC)",
+  "thisversionstatus": "success",
+  "thisversionrun": "Sat Feb 14 2015 13:23:18 GMT+0000 (UTC)",
+  "url": "http://www.restaurangkartan.se/06320/Thai_Taste_Esplanaden",
+  "results": {
+    "collection1": [
+      {
+        "Name": "Thai Taste Esplanaden",
+        "Description": "Detta är en restaurang som ligger på Esplanaden 6 i Kalmar.",
+        "Street": "Esplanaden 6",
+        "Zip": "",
+        "City": "Kalmar",
+        "Tel": "0480-421940",
+        "Image": {
+          "src": "http://www.allakartor.se/graphics/no_image_100.gif",
+          "alt": "Bilder från Thai Taste Esplanaden",
+          "href": "http://www.restaurangkartan.se/06320/images/",
+          "text": ""
+        }
+      }
+    ],
+    "collection3": [
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/StefanP/",
+          "text": "StefanP"
+        },
+        "ReviewTest": "Provade att luncha här en lördag och valde en curry från a la carte menyn. Jodå, det var gott, men inte exceptionellt. Jämfört med andra svenska thaiställen så tyckte jag att det var lite svag kryddning.Det var en *stor* portion med mycket grönsaker. Fräscht men kändes lite som en påse färdiga wokgrönsaker.Lokalen är en halvtrappa ned. Lite anonym från gatan.",
+        "ReviewDate": "2013-10-07 kl. 11:34",
+        "ReviewRate": "Betyg: 3",
+        "ReviewLike": "0",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Yasmin_Ohlsson/",
+          "text": "Yasmin Ohlsson"
+        },
+        "ReviewTest": "Mycket god mat och hyffsat pris, inte alldeles för dyrt men inte superbilligt heller",
+        "ReviewDate": "2010-05-03 kl. 17:34",
+        "ReviewRate": "Betyg: 4",
+        "ReviewLike": "1",
+        "ReviewDislike": "0"
+      },
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Bettan_E/",
+          "text": "Bettan E"
+        },
+        "ReviewTest": "Det närmaste man kan komma riktig thailändsk mat. Maten är inte svenskt tillrättalagd utan smakar som de rätter man köper bortom turiststråken i Thailand. Lunchrättskombinationen (ofta någon typ av curry med ris och ytterligare en rätt) kan ibland vara lite ´mildare´ än rätterna på a la carte-menyn, men smakar ändå utsökt. Det finns också en filial, med lite fler lunchmenyer att välja mellan, på Ströget (ingång Storgatan eller Södra Långgatan). Mkt trevlig personal och hyfsade priser. Ont om sittplatser på Esplanaden men fler bord på Strögetfilialen.",
+        "ReviewDate": "2010-01-27 kl. 17:43",
+        "ReviewRate": "Betyg: 5",
+        "ReviewLike": "0",
+        "ReviewDislike": "0"
+      }
+    ]
+  }
+}, {
+  "name": "Resturangkartan Resturant",
+  "count": 2,
+  "frequency": "Manual Crawl",
+  "version": 41,
+  "newdata": true,
+  "lastrunstatus": "success",
+  "lastsuccess": "Sat Feb 14 2015 13:23:36 GMT+0000 (UTC)",
+  "thisversionstatus": "success",
+  "thisversionrun": "Sat Feb 14 2015 13:23:29 GMT+0000 (UTC)",
+  "url": "http://www.restaurangkartan.se/06990/Gerds_Mat",
+  "results": {
+    "collection1": [
+      {
+        "Name": "Gerds Mat",
+        "Description": "Detta är en restaurang som ligger på Polhemsgatan 15 i Kalmar.",
+        "Street": "Polhemsgatan 15",
+        "Zip": "",
+        "City": "Kalmar",
+        "Tel": "0480-13934",
+        "Image": {
+          "src": "http://www.allakartor.se/venue_images_100/6990_381268738667590.jpg",
+          "alt": "Bilder från Gerds Mat",
+          "href": "http://www.restaurangkartan.se/06990/images/",
+          "text": ""
+        }
+      }
+    ],
+    "collection3": [
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Kenneth_-_Susanne/",
+          "text": "Kenneth - Susanne"
+        },
+        "ReviewTest": "Serverar bra husmanskost, populärt middagsställe att äta på",
+        "ReviewDate": "2011-12-25 kl. 12:17",
+        "ReviewRate": "Betyg: 4",
+        "ReviewLike": "2",
+        "ReviewDislike": "1"
+      }
+    ]
+  }
+}, {
+  "name": "Resturangkartan Resturant",
+  "count": 2,
+  "frequency": "Manual Crawl",
+  "version": 42,
+  "newdata": true,
+  "lastrunstatus": "success",
+  "lastsuccess": "Sat Feb 14 2015 13:23:46 GMT+0000 (UTC)",
+  "thisversionstatus": "success",
+  "thisversionrun": "Sat Feb 14 2015 13:23:39 GMT+0000 (UTC)",
+  "url": "http://www.restaurangkartan.se/0471319/Restaurang_Italia",
+  "results": {
+    "collection1": [
+      {
+        "Name": "Restaurang Italia",
+        "Description": "Plankstek, grillmix, medelhavsgrill, vitlöksbröd. Prisvärd restaurang i Kalmar.",
+        "Street": "Storgatan 20",
+        "Zip": "39232",
+        "City": "Kalmar",
+        "Tel": "048087087",
+        "Image": {
+          "src": "http://www.allakartor.se/venue_images_100/471319_436036619790507.jpg",
+          "alt": "Bilder från Restaurang Italia",
+          "href": "http://www.restaurangkartan.se/0471319/images/",
+          "text": ""
+        }
+      }
+    ],
+    "collection3": [
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Joakim_Olsson_3/",
+          "text": "Joakim Olsson 3"
+        },
+        "ReviewTest": "Bra mat, prisvärd dock ej lyxrestaurang",
+        "ReviewDate": "2014-02-14 kl. 18:28",
+        "ReviewRate": "Betyg: 4",
+        "ReviewLike": "0",
+        "ReviewDislike": "0"
+      }
+    ]
+  }
+}, {
+  "name": "Resturangkartan Resturant",
+  "count": 2,
+  "frequency": "Manual Crawl",
+  "version": 43,
+  "newdata": true,
+  "lastrunstatus": "success",
+  "lastsuccess": "Sat Feb 14 2015 13:23:56 GMT+0000 (UTC)",
+  "thisversionstatus": "success",
+  "thisversionrun": "Sat Feb 14 2015 13:23:48 GMT+0000 (UTC)",
+  "url": "http://www.restaurangkartan.se/0469422/Stars_and_Stripes_Grill_and_Sportsbar",
+  "results": {
+    "collection1": [
+      {
+        "Name": "Stars and Stripes Grill and Sportsbar",
+        "Description": "Restaurang i Kalmar.",
+        "Street": "Skeppsbrogatan 12",
+        "Zip": "39231",
+        "City": "Kalmar",
+        "Tel": "0480-492050",
+        "Image": {
+          "src": "http://www.allakartor.se/venue_images_100/469422_324594364288410.jpg",
+          "alt": "Bilder från Stars and Stripes Grill and Sportsbar",
+          "href": "http://www.restaurangkartan.se/0469422/images/",
+          "text": ""
+        }
+      }
+    ],
+    "collection3": [
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Pontus_Göransson/",
+          "text": "Pontus Göransson"
+        },
+        "ReviewTest": "Bra meny med snabb och serviceinriktat personal. Tittade på fotboll och en del skärmar behöver piggas upp. Väldigt bra läge med utsikt över gästhamnen i Kalmar.",
+        "ReviewDate": "2014-07-30 kl. 09:22",
+        "ReviewRate": "Betyg: 4",
+        "ReviewLike": "0",
+        "ReviewDislike": "0"
+      }
+    ]
+  }
+}, {
+  "name": "Resturangkartan Resturant",
+  "count": 2,
+  "frequency": "Manual Crawl",
+  "version": 44,
+  "newdata": true,
+  "lastrunstatus": "success",
+  "lastsuccess": "Sat Feb 14 2015 13:24:04 GMT+0000 (UTC)",
+  "thisversionstatus": "success",
+  "thisversionrun": "Sat Feb 14 2015 13:23:57 GMT+0000 (UTC)",
+  "url": "http://www.restaurangkartan.se/011161/Restaurang_Krysset",
+  "results": {
+    "collection1": [
+      {
+        "Name": "Restaurang Krysset",
+        "Description": "Detta är en restaurang som ligger på Husmorsvägen i Kalmar.",
+        "Street": "Husmorsvägen 1",
+        "Zip": "39364",
+        "City": "Kalmar",
+        "Tel": "0480-475111",
+        "Image": {
+          "src": "http://www.allakartor.se/venue_images_100/11161_200467443361883.jpg",
+          "alt": "Bilder från Restaurang Krysset",
+          "href": "http://www.restaurangkartan.se/011161/images/",
+          "text": ""
+        }
+      }
+    ],
+    "collection3": [
+      {
+        "ReviewName": {
+          "href": "http://www.minkarta.se/Klungan00/",
+          "text": "Klungan00"
+        },
+        "ReviewTest": "Goda pizzor,stort utbud, supertrevlig personal",
+        "ReviewDate": "2015-01-14 kl. 17:38",
+        "ReviewRate": "Betyg: 4",
+        "ReviewLike": "0",
+        "ReviewDislike": "0"
+      }
+    ]
+  }
+}]
