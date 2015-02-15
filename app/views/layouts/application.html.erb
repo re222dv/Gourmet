@@ -9,5 +9,29 @@
 
 <%= yield %>
 
+  <h1>Request</h1>
+  <h2>Method</h2>
+  <%= request.env['REQUEST_METHOD'] %>
+  <h2>Headers</h2>
+  <dl>
+    <% request.headers.select{|key, value| key.start_with? 'HTTP'}.each do |name, value| %>
+        <dt><%= name.split('_').map(&:capitalize).join('-') %></dt>
+        <dd><%= value %></dd>
+    <% end %>
+  </dl>
+
+  <h1>Response</h1>
+  <h2>Status Code</h2>
+  <%= response.status %>
+  <h2>Headers</h2>
+  <dl>
+    <% headers.each do |name, value| %>
+        <dt><%= name %></dt>
+        <dd><%= value %></dd>
+    <% end %>
+  </dl>
+  <h2>Body</h2>
+  <pre><code><%= @content %></code></pre>
+  <%= javascript_include_tag 'application.js' %>
 </body>
 </html>
