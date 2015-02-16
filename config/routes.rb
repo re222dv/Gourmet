@@ -2,7 +2,7 @@ Rails.application.routes.draw do
   root 'api#index'
   get '/v:version' => 'api#show', as: :version
 
-  namespace :v1 do
+  scope :v1 do
     resources :cuisines, only: [:index, :show]
     resources :places, only: [:index, :create, :show, :update]
     resources :reviews, only: [:index, :create, :show, :update]

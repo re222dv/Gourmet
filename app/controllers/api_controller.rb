@@ -19,7 +19,7 @@ class ApiController < ApplicationController
 
   def show
     unless @versions.include? params[:version].to_i
-      return respond_with [], status: :not_found
+      return respond_with [], status: 404
     end
 
     version = version_path(params[:version])
