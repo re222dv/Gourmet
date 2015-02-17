@@ -25,8 +25,6 @@ class ApplicationController < ActionController::Base
   def respond_with(content, settings = {}, &block)
     response = {}
 
-    content = content.as_json if content.respond_to? :as_json
-
     if settings[:status] && settings[:status] >= 400
       response[:status] = 'error'
       response[:message] = content

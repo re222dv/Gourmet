@@ -98,7 +98,7 @@ data.each do |d|
       user: user,
       rating: review['ReviewRate'].split(' ').last.to_i,
       description: review['ReviewTest'],
-      created_at: review['ReviewDate'],
+      created_at: Time.parse(review['ReviewDate']),
     )
   end
 
