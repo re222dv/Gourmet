@@ -13,15 +13,20 @@ class ApplicationController < ActionController::Base
 
   protected
 
+  def bad_request
+    respond_with 'bad request', status: 400
+  end
+
   def record_not_found
     respond_with 'not found', status: 404
   end
 
-  # Overrides responders gem to generate data for html page
+  # Overrides responders gem to generate JSEND responses and data for html page
   def respond_with(content, settings = {}, &block)
     response = {}
-    puts block.inspect
-    puts settings.inspect
+
+    content = content.as_json if content.respond_to? :as_json
+
     if settings[:status] && settings[:status] >= 400
       response[:status] = 'error'
       response[:message] = content

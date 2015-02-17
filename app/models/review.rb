@@ -1,4 +1,6 @@
 class Review < ActiveRecord::Base
+  include Hateoas
+
   belongs_to :place, inverse_of: :reviews
   belongs_to :user, inverse_of: :reviews
 

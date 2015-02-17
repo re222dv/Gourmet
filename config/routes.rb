@@ -3,10 +3,17 @@ Rails.application.routes.draw do
   get '/v:version' => 'api#show', as: :version
 
   scope :v1 do
-    resources :cuisines, only: [:index, :show]
-    resources :places, only: [:index, :create, :show, :update]
-    resources :reviews, only: [:index, :create, :show, :update]
-    resources :users, only: [:index, :create, :show, :update]
+    resources :cuisines, only: [:index, :show] do
+      resources :places, only: [:index]
+    end
+
+    resources :places, only: [:index, :create, :show, :update] do
+      resources :reviews, only: [:index, :create, :show, :update]
+    end
+
+    resources :users, only: [:create, :show, :update] do
+      resources :reviews, only: [:index]
+    end
   end
 
   # The priority is based upon order of creation: first created -> highest priority.

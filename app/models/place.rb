@@ -1,4 +1,6 @@
 class Place < ActiveRecord::Base
+  include Hateoas
+
   has_many :reviews, dependent: :destroy, inverse_of: :place
   has_and_belongs_to_many :cuisines
   geocoded_by :address

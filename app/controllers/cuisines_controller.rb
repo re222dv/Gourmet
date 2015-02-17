@@ -1,9 +1,12 @@
 class CuisinesController < ApplicationController
   def index
-    respond_with Cuisine.all.as_json
+    respond_with Cuisine.all
   end
 
   def show
-    respond_with Cuisine.find(params[:id]).as_json
+    cuisine = Cuisine.find(params[:id])
+    respond_with cuisine.as_json.merge({
+        places: cuisine.places
+    })
   end
 end
