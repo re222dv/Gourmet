@@ -9,4 +9,8 @@ class UsersController < ApplicationController
         end
     })
   end
+
+  def create
+    User.new(name: params[:name])
+  end
 end

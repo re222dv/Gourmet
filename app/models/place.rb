@@ -1,4 +1,8 @@
+require 'elasticsearch/model'
+
 class Place < ActiveRecord::Base
+  include Elasticsearch::Model
+  include Elasticsearch::Model::Callbacks
   include Hateoas
 
   has_many :reviews, dependent: :destroy, inverse_of: :place
@@ -11,6 +15,7 @@ class Place < ActiveRecord::Base
 
   after_validation :geocode, if: :address_changed?
 
+  # Aggregates and saves the mean rating of all reviews
   def update_rating
     # Get the amount of reviews from the database, discarding cache as a review just got written
     size = reviews(true).length
@@ -25,6 +30,58 @@ class Place < ActiveRecord::Base
     self.rating = reviews.inject(initial) { |sum, review| sum + review.rating } / size
     save
     rating
+  end
+
+  # Configure Elasticsearch
+  mapping do
+    indexes :location, type: 'geo_point'
+  end
+
+  def as_indexed_json(options={})
+    as_json(only: [:name, :description, :street, :city, :zip, :telephone, :homepage, :rating])
+        .merge({
+            location: { lat: self.latitude, lon: self.longitude },
+            cuisines: cuisines.map(&:name),
+        })
+  end
+  # End configure Elasticsearch
+
+  def self.search(name, location = nil)
+    query = {
+        query: {
+            function_score: {
+                query: {
+                    bool: {
+                        should: [
+                            { match: { name: name }},
+                            { match: { _all: {
+                                query: name,
+                                operator: 'or',
+                                fuzziness: 'auto',
+                                zero_terms_query: 'all'
+                            }}}
+                        ]
+                    }
+                },
+                functions: [
+                    { exp: { rating: { origin: 5, scale: 0.5}}, weight: 0.1}
+                ],
+                boost_mode: :sum
+            }
+        },
+    }
+
+    unless location.nil?
+      query[:query][:function_score][:functions] << {
+          gauss: { location: { origin: location, scale: '100m' }},
+          weight: 3
+      }
+    end
+
+    puts JSON.generate query
+
+    response = __elasticsearch__.search query
+    #response.records.to_a
   end
 
   private

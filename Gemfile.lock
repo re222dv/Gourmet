@@ -75,6 +75,19 @@ GEM
     debug_inspector (0.0.2)
     debugger-linecache (1.2.0)
     diff-lcs (1.2.5)
+    elasticsearch (1.0.6)
+      elasticsearch-api (= 1.0.6)
+      elasticsearch-transport (= 1.0.6)
+    elasticsearch-api (1.0.6)
+      multi_json
+    elasticsearch-model (0.1.6)
+      activesupport (> 3)
+      elasticsearch (> 0.4)
+      hashie
+    elasticsearch-rails (0.1.6)
+    elasticsearch-transport (1.0.6)
+      faraday
+      multi_json
     email_validator (1.5.0)
       activemodel
     erubis (2.7.0)
@@ -86,9 +99,12 @@ GEM
       railties (>= 3.0.0)
     faker (1.4.3)
       i18n (~> 0.5)
+    faraday (0.9.1)
+      multipart-post (>= 1.2, < 3)
     geocoder (1.2.7)
     globalid (0.3.0)
       activesupport (>= 4.1.0)
+    hashie (3.4.0)
     hike (1.2.3)
     i18n (0.7.0)
     jbuilder (2.2.6)
@@ -103,6 +119,7 @@ GEM
     mini_portile (0.6.2)
     minitest (5.5.1)
     multi_json (1.10.1)
+    multipart-post (2.0.0)
     neat (1.7.1)
       bourbon (>= 4.0)
       sass (>= 3.3)
@@ -203,6 +220,8 @@ PLATFORMS
 DEPENDENCIES
   byebug
   capybara
+  elasticsearch-model
+  elasticsearch-rails
   factory_girl_rails
   faker
   geocoder

@@ -2,8 +2,12 @@ module Hateoas
   include ActionDispatch::Routing::PolymorphicRoutes
 
   # noinspection RubySuperCallWithoutSuperclassInspection
-  def as_json
-    json = super
+  def as_json(options = {})
+    json = super options
+
+    return json if (options[:except] and options[:except].include? :url) or
+                   (options[:only] and not options[:only].include? :url)
+
     if self.instance_of? Review
       json['url'] = Rails.application.routes.url_helpers.place_review_path self, place_id: self.place_id
     else
