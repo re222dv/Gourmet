@@ -7,4 +7,6 @@ class Review < ActiveRecord::Base
   validates :place, presence: true
   validates :user, presence: true
   validates :rating, presence: true, numericality: true, inclusion: 1..5
+
+  after_commit { place.update_rating }
 end

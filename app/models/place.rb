@@ -11,6 +11,22 @@ class Place < ActiveRecord::Base
 
   after_validation :geocode, if: :address_changed?
 
+  def update_rating
+    # Get the amount of reviews from the database, discarding cache as a review just got written
+    size = reviews(true).length
+    initial = 0.0
+
+    if size < 3 # Gear towards the middle if there are too few reviews
+      initial = (3 - size) * 2.5
+      size = 3
+    end
+
+    # Calculate the mean rating
+    self.rating = reviews.inject(initial) { |sum, review| sum + review.rating } / size
+    save
+    rating
+  end
+
   private
 
   def address
