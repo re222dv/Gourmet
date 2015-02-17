@@ -1,3 +1,16 @@
+GIT
+  remote: https://github.com/re222dv/Locksmith.git
+  revision: 2afc5a6b74d2533b4da4b57a63c911a13d0667b9
+  specs:
+    locksmith (0.0.1)
+      bcrypt
+      bitters
+      bourbon
+      email_validator
+      neat
+      rails (~> 4.2)
+      sass-rails
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -37,8 +50,16 @@ GEM
       thread_safe (~> 0.3, >= 0.3.4)
       tzinfo (~> 1.1)
     arel (6.0.0)
+    bcrypt (3.1.10)
     binding_of_caller (0.7.2)
       debug_inspector (>= 0.0.1)
+    bitters (1.0.0)
+      bourbon (>= 3.2)
+      sass (>= 3.2)
+      thor
+    bourbon (4.2.0)
+      sass (~> 3.4)
+      thor
     builder (3.2.2)
     byebug (3.5.1)
       columnize (~> 0.8)
@@ -54,6 +75,8 @@ GEM
     debug_inspector (0.0.2)
     debugger-linecache (1.2.0)
     diff-lcs (1.2.5)
+    email_validator (1.5.0)
+      activemodel
     erubis (2.7.0)
     execjs (2.3.0)
     factory_girl (4.5.0)
@@ -80,9 +103,14 @@ GEM
     mini_portile (0.6.2)
     minitest (5.5.1)
     multi_json (1.10.1)
+    neat (1.7.1)
+      bourbon (>= 4.0)
+      sass (>= 3.3)
     nokogiri (1.6.6.2)
       mini_portile (~> 0.6.0)
     rack (1.6.0)
+    rack-post-body-to-params (0.1.8)
+      activesupport (>= 2.3)
     rack-test (0.6.3)
       rack (>= 1.0)
     rails (4.2.0)
@@ -179,6 +207,8 @@ DEPENDENCIES
   faker
   geocoder
   jbuilder (~> 2.0)
+  locksmith!
+  rack-post-body-to-params
   rails (= 4.2.0)
   responders (~> 2.0)
   rspec-rails

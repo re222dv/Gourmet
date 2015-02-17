@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20150204091252) do
+ActiveRecord::Schema.define(version: 20150217121608) do
 
   create_table "cuisines", force: :cascade do |t|
     t.string   "name"
@@ -26,6 +26,28 @@ ActiveRecord::Schema.define(version: 20150204091252) do
 
   add_index "cuisines_places", ["cuisine_id"], name: "index_cuisines_places_on_cuisine_id"
   add_index "cuisines_places", ["place_id"], name: "index_cuisines_places_on_place_id"
+
+  create_table "locksmith_applications", force: :cascade do |t|
+    t.string   "name",       limit: 30
+    t.string   "key"
+    t.integer  "user_id"
+    t.datetime "created_at",            null: false
+    t.datetime "updated_at",            null: false
+  end
+
+  add_index "locksmith_applications", ["key"], name: "index_locksmith_applications_on_key", unique: true
+  add_index "locksmith_applications", ["user_id"], name: "index_locksmith_applications_on_user_id"
+
+  create_table "locksmith_users", force: :cascade do |t|
+    t.string   "name",            limit: 30
+    t.string   "email"
+    t.string   "password_digest"
+    t.datetime "created_at",                 null: false
+    t.datetime "updated_at",                 null: false
+    t.boolean  "admin"
+  end
+
+  add_index "locksmith_users", ["email"], name: "index_locksmith_users_on_email", unique: true
 
   create_table "places", force: :cascade do |t|
     t.string   "name"

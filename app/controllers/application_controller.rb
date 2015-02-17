@@ -5,7 +5,8 @@ class ApplicationController < ActionController::Base
   self.responder = ApplicationResponder
   respond_to :html, :xml, :json
 
-  rescue_from ActiveRecord::RecordNotFound, :with => :record_not_found
+  before_action :validate_key
+  rescue_from ActiveRecord::RecordNotFound, :with => :not_found
 
   # Prevent CSRF attacks by raising an exception.
   # For APIs, you may want to use :null_session instead.
@@ -13,11 +14,11 @@ class ApplicationController < ActionController::Base
 
   protected
 
-  def bad_request
-    respond_with 'bad request', status: 400
+  def bad_request(message = 'bad request')
+    respond_with message, status: 400
   end
 
-  def record_not_found
+  def not_found
     respond_with 'not found', status: 404
   end
 
@@ -40,5 +41,15 @@ class ApplicationController < ActionController::Base
       @content = JSON.generate response, indent: '  ', space: ' ', object_nl: "\n", array_nl: "\n"
     end
     super response, settings, &block
+  end
+
+  private
+
+  def validate_key
+    begin
+      Locksmith::ApiHelper.validate_key params[:key]
+    rescue Locksmith::ApiHelper::InvalidKey
+      bad_request('Invalid API key')
+    end
   end
 end

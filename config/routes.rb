@@ -8,13 +8,15 @@ Rails.application.routes.draw do
     end
 
     resources :places, only: [:index, :create, :show, :update] do
-      resources :reviews, only: [:index, :create, :show, :update]
+      resources :reviews, only: [:index, :create, :show, :update, :destroy]
     end
 
     resources :users, only: [:create, :show, :update] do
       resources :reviews, only: [:index]
     end
   end
+
+  mount Locksmith::Engine => '/locksmith'
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".

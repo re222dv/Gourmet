@@ -27,6 +27,10 @@ gem 'responders', '~> 2.0'
 
 gem 'geocoder'
 
+gem 'rack-post-body-to-params'
+
+gem 'locksmith', git: 'https://github.com/re222dv/Locksmith.git'
+
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug'
