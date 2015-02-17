@@ -64,24 +64,22 @@ class Place < ActiveRecord::Base
                     }
                 },
                 functions: [
-                    { exp: { rating: { origin: 5, scale: 0.5}}, weight: 0.1}
-                ],
-                boost_mode: :sum
+                    { exp: { rating: { origin: 5, scale: 1, offset: 0.1 }}}
+                ]
             }
-        },
+        }
     }
 
     unless location.nil?
       query[:query][:function_score][:functions] << {
-          gauss: { location: { origin: location, scale: '100m' }},
-          weight: 3
+          gauss: { location: { origin: location, scale: '250m', offset: '50m' }}
       }
     end
 
     puts JSON.generate query
 
     response = __elasticsearch__.search query
-    #response.records.to_a
+    response.records.to_a
   end
 
   private
