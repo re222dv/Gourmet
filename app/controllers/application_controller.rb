@@ -36,6 +36,7 @@ class ApplicationController < ActionController::Base
     mimes = collect_mimes_from_class_level
     collector = ActionController::MimeResponds::Collector.new(mimes, request.variant)
     if collector.negotiate_format(request) == 'text/html'
+      response[:data] = response[:data].as_json if response[:data].respond_to? :as_json
       @content = JSON.generate response, indent: '  ', space: ' ', object_nl: "\n", array_nl: "\n"
     end
     super response, settings, &block
