@@ -31,6 +31,8 @@ gem 'rack-post-body-to-params'
 
 gem 'locksmith', git: 'https://github.com/re222dv/Locksmith.git'
 
+gem 'actionpack-xml_parser'
+
 gem 'elasticsearch-model'
 gem 'elasticsearch-rails'
 

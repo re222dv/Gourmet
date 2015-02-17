@@ -20,4 +20,37 @@ class PlacesController < ApplicationController
         end
     })
   end
+
+  def create
+    place = Place.new place_parameters
+    if place.save
+      respond_with place, status: 201, location: place_path(place)
+    else
+      bad_request place.errors, location: nil
+    end
+  end
+
+  private
+
+  def place_parameters
+    if params.has_key? :place
+      place = params[:place]
+      if place.has_key? :cuisines
+        place[:cuisines] = place[:cuisines].values
+      end
+    else
+      place = params
+    end
+    cuisines = Cuisine.where(name: place[:cuisines])
+    {
+        name: place[:name],
+        description: place[:description],
+        street: place[:street],
+        city: place[:city],
+        zip: place[:zip],
+        telephone: place[:telephone],
+        homepage: place[:homepage],
+        cuisines: cuisines,
+    }
+  end
 end
