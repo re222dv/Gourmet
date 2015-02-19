@@ -50,6 +50,7 @@ class PlacesController < ApplicationController
         zip: place[:zip],
         telephone: place[:telephone],
         homepage: place[:homepage],
+        image_url: place[:image_url],
         cuisines: cuisines,
     }
   end

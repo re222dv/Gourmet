@@ -38,11 +38,14 @@ class Place < ActiveRecord::Base
   end
 
   def as_indexed_json(options={})
-    as_json(only: [:name, :description, :street, :city, :zip, :telephone, :homepage, :rating])
+    json = as_json(only: [:name, :description, :street, :city, :zip, :telephone, :homepage, :rating])
         .merge({
             location: { lat: self.latitude, lon: self.longitude },
             cuisines: cuisines.map(&:name),
         })
+
+    json[:rating] = 2.5 if json[:rating].nil?
+    json
   end
   # End configure Elasticsearch
 
@@ -71,9 +74,10 @@ class Place < ActiveRecord::Base
     }
 
     unless location.nil?
-      query[:query][:function_score][:functions] << {
-          gauss: { location: { origin: location, scale: '250m', offset: '50m' }}
-      }
+      query[:query][:function_score][:functions] += [
+          { gauss: { location: { origin: location, scale: '250m', offset: '50m' }}},
+          { gauss: { location: { origin: location, scale: '1km', offset: '550m' }}},
+      ]
     end
 
     puts JSON.generate query
