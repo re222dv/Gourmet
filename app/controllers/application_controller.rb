@@ -24,7 +24,7 @@ class ApplicationController < ActionController::Base
   end
 
   # Overrides responders gem to generate JSEND responses and data for html page
-  def respond_with(content, settings = {}, &block)
+  def respond_with(content, settings = {})
     response = {}
 
     if settings[:status] && settings[:status] >= 400
@@ -41,7 +41,13 @@ class ApplicationController < ActionController::Base
       response[:data] = response[:data].as_json if response[:data].respond_to? :as_json
       @content = JSON.generate response, indent: '  ', space: ' ', object_nl: "\n", array_nl: "\n"
     end
-    super response, settings, &block
+
+    # Send block to make rails not force a 204 no content on update even if validation fails
+    # or an exceptions is thrown
+    super response, settings  do |format|
+      format.json { render json: response }
+      format.xml { render xml: response }
+    end
   end
 
   private

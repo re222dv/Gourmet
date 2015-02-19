@@ -35,6 +35,15 @@ class ReviewsController < ApplicationController
     end
   end
 
+  def update
+    review = Review.find params[:id]
+    if review.update_attributes review_parameters
+      respond_with nil
+    else
+      bad_request review.errors
+    end
+  end
+
   private
 
   def review_parameters

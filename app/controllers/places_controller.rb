@@ -30,6 +30,15 @@ class PlacesController < ApplicationController
     end
   end
 
+  def update
+    place = Place.find params[:id]
+    if place.update_attributes place_parameters
+      respond_with nil
+    else
+      bad_request place.errors
+    end
+  end
+
   private
 
   def place_parameters
