@@ -38,10 +38,16 @@ class ReviewsController < ApplicationController
   def update
     review = Review.find params[:id]
     if review.update_attributes review_parameters
-      respond_with nil
+      respond_with review
     else
       bad_request review.errors
     end
+  end
+
+  def destroy
+    review = Review.find params[:id]
+    review.destroy
+    respond_with nil
   end
 
   private

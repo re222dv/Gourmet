@@ -33,7 +33,7 @@ class PlacesController < ApplicationController
   def update
     place = Place.find params[:id]
     if place.update_attributes place_parameters
-      respond_with nil
+      respond_with place
     else
       bad_request place.errors
     end
