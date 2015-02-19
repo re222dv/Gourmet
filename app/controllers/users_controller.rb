@@ -11,6 +11,24 @@ class UsersController < ApplicationController
   end
 
   def create
-    User.new(name: params[:name])
+    user = User.new user_parameters
+    if user.save
+      respond_with user, status: 201, location: user_path(user)
+    else
+      bad_request user.errors, location: nil
+    end
+  end
+
+  private
+
+  def user_parameters
+    if params.has_key? :user
+      user = params[:user]
+    else
+      user = params
+    end
+    {
+        name: user[:name],
+    }
   end
 end
