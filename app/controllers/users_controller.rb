@@ -1,4 +1,6 @@
 class UsersController < ApplicationController
+  skip_before_action :validate_user
+
   def show
     user = User.find(params[:id])
     respond_with user.as_json.merge({
@@ -11,6 +13,7 @@ class UsersController < ApplicationController
   end
 
   def create
+    puts params.inspect
     user = User.new user_parameters
     if user.save
       respond_with user, status: 201, location: user_path(user)
@@ -22,13 +25,14 @@ class UsersController < ApplicationController
   private
 
   def user_parameters
-    if params.has_key? :user
-      user = params[:user]
-    else
+    #if params.has_key? :user
+    #  user = params[:user]
+    #else
       user = params
-    end
+    #end
     {
         name: user[:name],
+        password: user[:password]
     }
   end
 end

@@ -6,6 +6,7 @@ class ApplicationController < ActionController::Base
   respond_to :html, :xml, :json
 
   before_action :validate_key
+  before_action :validate_user, except: [:index, :show]
   rescue_from ActiveRecord::RecordNotFound, :with => :not_found
 
   # Prevent CSRF attacks by raising an exception.
@@ -45,8 +46,8 @@ class ApplicationController < ActionController::Base
     # Send block to make rails not force a 204 no content on update even if validation fails
     # or an exceptions is thrown
     super response, settings  do |format|
-      format.json { render json: response }
-      format.xml { render xml: response }
+      format.json { render json: response, status: settings[:status] }
+      format.xml { render xml: response, status: settings[:status] }
     end
   end
 
@@ -57,6 +58,14 @@ class ApplicationController < ActionController::Base
       Locksmith::ApiHelper.validate_key params[:key]
     rescue Locksmith::ApiHelper::InvalidKey
       bad_request('Invalid API key')
+    end
+  end
+
+  def validate_user
+    user = User.where(name: request.headers['Username']).first
+
+    if user.nil? or not user.authenticate request.headers['Password']
+      respond_with 'authorizaton required', status: 401
     end
   end
 end

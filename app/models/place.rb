@@ -50,6 +50,8 @@ class Place < ActiveRecord::Base
   # End configure Elasticsearch
 
   def self.search(name, location = nil)
+    name = '' if name.nil?
+
     query = {
         query: {
             function_score: {
