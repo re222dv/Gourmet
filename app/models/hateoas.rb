@@ -14,7 +14,7 @@ module Hateoas
       json['url'] = polymorphic_path self
     end
 
-    json['url'] += "?key=#{$key}"
+    json['url'] += "?key=#{$key}" unless $key.nil?
 
     json
   end

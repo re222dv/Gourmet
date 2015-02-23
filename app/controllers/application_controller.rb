@@ -10,10 +10,6 @@ class ApplicationController < ActionController::Base
 
   rescue_from ActiveRecord::RecordNotFound, :with => :not_found
 
-  # Prevent CSRF attacks by raising an exception.
-  # For APIs, you may want to use :null_session instead.
-  protect_from_forgery with: :null_session
-
   protected
 
   def bad_request(message = 'bad request', options = {})
@@ -73,7 +69,8 @@ class ApplicationController < ActionController::Base
 
   def validate_key
     begin
-      Locksmith::ApiHelper.validate_key params[:key]
+      key = request.headers['Key'] || params[:key]
+      Locksmith::ApiHelper.validate_key key
       $key = params[:key]
     rescue Locksmith::ApiHelper::InvalidKey
       bad_request('Invalid API key')
