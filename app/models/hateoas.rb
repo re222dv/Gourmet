@@ -13,6 +13,9 @@ module Hateoas
     else
       json['url'] = polymorphic_path self
     end
+
+    json['url'] += "?key=#{$key}"
+
     json
   end
 
