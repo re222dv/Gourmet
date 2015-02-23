@@ -8,7 +8,7 @@ class ApplicationController < ActionController::Base
   before_action :validate_key
   before_action :validate_user, except: [:index, :show]
 
-  rescue_from ActiveRecord::RecordNotFound, :with => :not_found
+  rescue_from ActiveRecord::RecordNotFound, with: :not_found
 
   protected
 

@@ -90,7 +90,8 @@ data.each do |d|
     user = User.where(name: review['ReviewName']['text']).first
     if user.nil?
       user = User.create!(
-        name: review['ReviewName']['text']
+        name: review['ReviewName']['text'],
+        password: 'seed'
       )
     end
     Review.create!(
