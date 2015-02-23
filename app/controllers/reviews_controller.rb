@@ -37,17 +37,25 @@ class ReviewsController < ApplicationController
 
   def update
     review = Review.find params[:id]
-    if review.update_attributes review_parameters
-      respond_with review
+    if review.user_id == @current_user.id
+      if review.update_attributes review_parameters
+        respond_with review
+      else
+        bad_request review.errors
+      end
     else
-      bad_request review.errors
+      forbidden
     end
   end
 
   def destroy
     review = Review.find params[:id]
-    review.destroy
-    respond_with nil
+    if review.user_id == @current_user.id
+      review.destroy
+      respond_with nil
+    else
+      forbidden
+    end
   end
 
   private
@@ -59,12 +67,11 @@ class ReviewsController < ApplicationController
       review = params
     end
     place = Place.find(params[:place_id])
-    user = User.find(review[:user_id])
     {
         description: review[:description],
         rating: review[:rating],
         place: place,
-        user: user,
+        user: @current_user,
     }
   end
 end

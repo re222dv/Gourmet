@@ -24,6 +24,10 @@ class ApplicationController < ActionController::Base
     respond_with 'not found', status: 404
   end
 
+  def forbidden
+    respond_with 'authorizaton required', status: 401
+  end
+
   # Overrides responders gem to generate JSEND responses and data for html page
   def respond_with(content, settings = {})
     response = {}
@@ -65,7 +69,9 @@ class ApplicationController < ActionController::Base
     user = User.where(name: request.headers['Username']).first
 
     if user.nil? or not user.authenticate request.headers['Password']
-      respond_with 'authorizaton required', status: 401
+      forbidden
+    else
+      @current_user = user
     end
   end
 end
