@@ -13,7 +13,7 @@ class PlacesController < ApplicationController
     place = Place.find(params[:id])
     respond_with place.as_json.merge({
         cuisines: place.cuisines,
-        reviews: place.reviews.map do |review|
+        reviews: place.reviews.order('updated_at DESC').map do |review|
           review.as_json.merge({
               user: review.user
           })
