@@ -1,5 +1,5 @@
 class UsersController < ApplicationController
-  skip_before_action :validate_user
+  skip_before_action :validate_user, only: [:create]
 
   def show
     user = User.find(params[:id])
@@ -20,6 +20,14 @@ class UsersController < ApplicationController
     else
       bad_request user.errors, location: nil
     end
+  end
+
+  def update
+    if params[:id] != @current_user.id
+      return forbidden
+    end
+    @current_user.password params[:password]
+    @current_user.save
   end
 
   private
