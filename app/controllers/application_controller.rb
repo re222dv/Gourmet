@@ -25,17 +25,23 @@ class ApplicationController < ActionController::Base
     respond_with 'authorizaton required', status: 401
   end
 
-  def paginate(items)
+  def paginate(items, skip_encode = false)
     offset = params[:offset].to_i
     offset = 0 if offset < 0
     limit = params[:limit].to_i
     limit = 10 if limit < 1
     limit = 100 if limit > 100
+
     query = request.query_parameters.select do |key, value|
       not %w(offset limit).include? key
     end.map { |key, value| "&#{key}=#{value}" }.join
+
     url = "#{url_for only_path: true}?offset=#{offset + limit}&limit=#{limit}#{query}"
-    Pagination.new items, offset, limit, url
+
+    pages = Pagination.new(items, offset, limit, url)
+    return pages if skip_encode
+
+    pages.as_json
   end
 
   # Overrides responders gem to generate JSEND responses and data for html page

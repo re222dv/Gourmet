@@ -15,7 +15,7 @@ class PlacesController < ApplicationController
         cuisines: place.cuisines,
         reviews: place.reviews.order('updated_at DESC').map do |review|
           review.as_json.merge({
-              user: review.user
+              user: review.user.as_json
           })
         end
     })

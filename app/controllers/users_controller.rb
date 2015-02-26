@@ -6,14 +6,13 @@ class UsersController < ApplicationController
     respond_with user.as_json.merge({
         reviews: user.reviews.order('updated_at DESC').map do |review|
           review.as_json.merge({
-              place: review.place
+              place: review.place.as_json
           })
         end
     })
   end
 
   def create
-    puts params.inspect
     user = User.new user_parameters
     if user.save
       respond_with user, status: 201, location: user_path(user)
@@ -23,11 +22,12 @@ class UsersController < ApplicationController
   end
 
   def update
-    if params[:id] != @current_user.id
+    if params[:id].to_i != @current_user.id
       return forbidden
     end
-    @current_user.password params[:password]
+    @current_user.password = params[:password]
     @current_user.save
+    respond_with @current_user
   end
 
   private

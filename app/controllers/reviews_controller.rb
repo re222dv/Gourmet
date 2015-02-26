@@ -1,30 +1,30 @@
 class ReviewsController < ApplicationController
   def index
     if params.has_key? :place_id
-      reviews = paginate Review.where(place_id: params[:place_id]).order('updated_at DESC')
+      reviews = paginate Review.where(place_id: params[:place_id]).order('updated_at DESC'), true
       reviews.items = reviews.items.map do |review|
         review.as_json.merge({
-            user: review.user
+            user: review.user.as_json
         })
       end
     elsif params.has_key? :user_id
-      reviews = paginate Review.where(user_id: params[:user_id]).order('updated_at DESC')
+      reviews = paginate Review.where(user_id: params[:user_id]).order('updated_at DESC'), true
       reviews.items = reviews.items.map do |review|
         review.as_json.merge({
-            place: review.place
+            place: review.place.as_json
         })
       end
     else
       return bad_request
     end
-    respond_with reviews
+    respond_with reviews.as_json
   end
 
   def show
     review = Review.where(place_id: params[:place_id], id: params[:id]).first
     respond_with review.as_json.merge({
-        user: review.user,
-        place: review.place
+        user: review.user.as_json,
+        place: review.place.as_json
     })
   end
 
