@@ -10,6 +10,8 @@ Elasticsearch with default settings.
     `rake locksmith:install:migrations`
 1. Create the database
     `rake db:migrate`
+1. Set up Elasticsearch
+    `rake elasticsearch:place`
 1. Seed the database
     `rake db:seed`
     `rake app:locksmith:populate`
